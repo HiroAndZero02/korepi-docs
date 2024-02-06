@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 17:12:06 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 17:12:06 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 17:12:21 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 17:12:21 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -70,10 +70,10 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Uygulamayı Dışlamalara nasıl ekleyebilirsiniz?</title>
+      <title>Dışlamalara ekleme</title>
       <link>https://korepi.com/tr/guide/virus.html</link>
       <guid>https://korepi.com/tr/guide/virus.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Uygulamayı Dışlamalara nasıl ekleyebilirsiniz?</source>
+      <source url="https://korepi.com/tr/rss.xml">Dışlamalara ekleme</source>
       <description>anti virüslerde aşamalar farklı olabilir! Korepiyi dışlamalar listesine nasıl ekleyebilirsiniz? (Windows Defender) 1. Aşama: Antivirüsü açma Arama çubuğuna Windows Güvenliği Yaz...</description>
       <category>Guide</category>
       <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
