@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 19:10:55 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 19:10:55 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 19:21:35 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 19:21:35 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -963,91 +963,89 @@ Not 2: <a href="/tr/features/Player/extra-movements.html" target="blank">Ekstra 
 ]]></content:encoded>
     </item>
     <item>
-      <title>Remote Utility</title>
+      <title>Uzak Yardımcı Programı</title>
       <link>https://korepi.com/tr/features/Player/remote-utility.html</link>
       <guid>https://korepi.com/tr/features/Player/remote-utility.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Remote Utility</source>
-      <description>Sponsor Only Remote Utility: Claim Daily Commission Reward: Claims daily commission reward when all 4 comissions are completed.; Custom Talk: Starts a conversation using the con...</description>
+      <source url="https://korepi.com/tr/rss.xml">Uzak Yardımcı Programı</source>
+      <description>Sadece Sponsor Uzak Yardımcı Programı: Günlük Görev Ödüllerini Talep Edin: Tüm 4 görev tamamlandığında günlük görev ödülünü talep eder.; Özel Konuşma: Konuşma kimliğini kullanar...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Sponsor Only</p>
-</div>
-<hr>
-<h2> Remote Utility:</h2>
-<h3> Claim Daily Commission Reward:</h3>
+      <content:encoded><![CDATA[<h2> ::: Bilgilendirme Sadece Sponsor
+:::</h2>
+<h2> Uzak Yardımcı Programı:</h2>
+<h3> Günlük Görev Ödüllerini Talep Edin:</h3>
 <ul>
-<li>Claims daily commission reward when all 4 comissions are completed.</li>
+<li>Tüm 4 görev tamamlandığında günlük görev ödülünü talep eder.</li>
 </ul>
-<h3> Custom Talk:</h3>
+<h3> Özel Konuşma:</h3>
 <ul>
-<li>Starts a conversation using the conversation ID, some conversations might not work.</li>
+<li>Konuşma kimliğini kullanarak bir konuşma başlatır, bazı konuşmalarda çalışmayabilir.</li>
 </ul>
 <blockquote>
-<p>Note: This feature is dangerous.
-Note: To get the conversation ID, enable <code>Debug Talk</code>, ID will be displayed in <code>cmd</code>.</p>
+<p>Not: Bu özellik tehlikelidir.
+Not: Görüşme kimliğini almak için <code>Debug Talk</code> özelliğini etkinleştirin, kimlik <code>cmd</code> içinde görüntülenecektir.</p>
 </blockquote>
 <h3> Spawn Gadget:</h3>
 <ul>
-<li>Spawns the selected gadget by ID, some of them might not work.</li>
+<li>Seçilen gadget'ı ID'ye göre doğurur, bazıları çalışmayabilir.</li>
 </ul>
 <blockquote>
-<p>Note: This feature is dangerous.
-Note 2: You can find the gadget IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">here</a></p>
+<p>Not: Bu özellik tehlikelidir.
+Not 2: Gadget ID'lerini <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Gadget.txt" target="_blank" rel="noopener noreferrer">Buradan</a> bulabilirsiniz.</p>
 </blockquote>
-<h3> Crafting:</h3>
+<h3> Üretim:</h3>
 <ul>
-<li>Condensed Resin: Crafts a condensed resin if you got the resin and the items.</li>
-<li>Spawn Alchemy Table: Spawns an Alchemy Table.</li>
-<li>Spawn Forging Table: Spawns a Forging Table.</li>
-<li>Custom Combine: Will try to combine the selected item using the current character.
+<li>Yoğunlaştırılmış Reçine: Reçine ve eşyalarınız varsa yoğunlaştırılmış reçine üretir.</li>
+<li>Simya Masası Doğurur: Bir Simya Masası doğurur.</li>
+<li>Dövme Masasını Doğurur: Bir Dövme Masası ortaya çıkarır.</li>
+<li>Özel Birleştirme: Mevcut karakteri kullanarak seçili öğeyi birleştirmeye çalışır.
 <blockquote>
-<p>Note: If successful, there will be no prompt. Please check inventory.
-Note 2: You can find the combine IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">here</a></p>
-</blockquote>
-</li>
-</ul>
-<h3> Summon NPC:</h3>
-<ul>
-<li>Summons the selected NPC by ID.</li>
-</ul>
-<blockquote>
-<p>Note: Katheryne, Wagner and Prince already included.</p>
-</blockquote>
-<h3> Summon Monster:</h3>
-<ul>
-<li>Summons the selected monster with the selected parameters by ID.</li>
-</ul>
-<blockquote>
-<p>Note: You can't kill them.
-Note 2: You can find the monster IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">here</a></p>
-</blockquote>
-<h3> Summon Item:</h3>
-<ul>
-<li>Summons the selected item by ID.</li>
-</ul>
-<blockquote>
-<p>Note: Some items might not work.
-Note 2: You can find the items IDs <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">here</a></p>
-</blockquote>
-<h3> Open UI Page:</h3>
-<ul>
-<li>Open Paimon Menu Page: Opens the menu.</li>
-<li>Open Cooking Page: Opens cooking page.
-<blockquote>
-<p>Note: Needs to open cooking page once before using this feature.</p>
+<p>Not: Başarılı olursa, herhangi bir uyarı verilmeyecektir. Lütfen envanteri kontrol edin.
+Not 2: Birleştirme ID'lerini <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">Buradan</a> bulabilirsiniz.</p>
 </blockquote>
 </li>
 </ul>
-<h3> Worship Statue:</h3>
+<h3> NPC'yi çağır:</h3>
 <ul>
-<li>Will worship the selected Statue of the Seven with the amount selected, need to have the oculus to do this.</li>
+<li>Seçilen NPC'yi kimliğine göre çağırır.</li>
 </ul>
-<h3> Change Traveler Element:</h3>
+<blockquote>
+<p>Not: Katheryne, Wagner ve Prince zaten dahil edilmiştir.</p>
+</blockquote>
+<h3> Canavar Çağır:</h3>
 <ul>
-<li>Allows player to change traveler element anywhere.</li>
+<li>Seçilen canavarı ID'ye göre seçilen parametrelerle çağırır.</li>
 </ul>
-<h2> Example Video:</h2>
+<blockquote>
+<p>Not: Onları öldüremezsiniz.
+Not 2: Canavar ID'lerini <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Monsters.txt" target="_blank" rel="noopener noreferrer">Buradan</a> bulabilirsiniz.</p>
+</blockquote>
+<h3> Eşya çağır:</h3>
+<ul>
+<li>Seçilen eşyayı ID'ye göre çağırır.</li>
+</ul>
+<blockquote>
+<p>Not: Bazı eşyalar çalışmayabilir.
+Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCommandGenerator/blob/main/Source/GrasscutterTools/Resources/en-us/Item.txt" target="_blank" rel="noopener noreferrer">Buradan</a> bulabilirsiniz.</p>
+</blockquote>
+<h3> UI Sayfasını Açın:</h3>
+<ul>
+<li>Paimon Menü Sayfasını Aç: Menüyü açar.</li>
+<li>Pişirme Sayfasını Aç: Pişirme sayfasını açar.
+<blockquote>
+<p>Not: Bu özelliği kullanmadan önce pişirme sayfasını bir kez açmanız gerekir.</p>
+</blockquote>
+</li>
+</ul>
+<h3> Tapınak Heykeli:</h3>
+<ul>
+<li>Seçilen Yedi Heykeli'ne seçilen miktarda ibadet eder, bunu yapmak için oculus'a sahip olmak gerekir.</li>
+</ul>
+<h3> Gezgin Elementini Değiştirin:</h3>
+<ul>
+<li>Oyuncunun gezgin elementini herhangi bir yerde değiştirmesine izin verir.</li>
+</ul>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
