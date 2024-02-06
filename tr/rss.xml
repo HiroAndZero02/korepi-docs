@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 17:11:48 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 17:11:48 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 17:12:06 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 17:12:06 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -312,14 +312,12 @@ In order to use custom skins in we will need to download:</p>
       <link>https://korepi.com/tr/guide/multi-instance.html</link>
       <guid>https://korepi.com/tr/guide/multi-instance.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Aynı anda iki tane oyun uygulamasını açma</source>
-      <description>Aynı anda iki tane oyun uygulamasını açabilirsiniz Sadece Local(V) Versiyonunda yapılabilir bir özelliktir</description>
+      <description>Aynı anda iki tane oyun uygulamasını açabilirsiniz Local(V) Versiyonunda yapılabilir bir özelliktir</description>
       <category>Guide</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Aynı anda iki tane oyun uygulamasını açabilirsiniz</h2>
-<div class="hint-container info">
-<p class="hint-container-title">Sadece Local(V) Versiyonunda yapılabilir bir özelliktir</p>
-</div>
-<hr>
+<h2> ::: Sadece Local(V) Versiyonunda yapılabilir bir özelliktir
+:::</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/pSAxKoneT64" title="Multi-Instance V (Updated)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
