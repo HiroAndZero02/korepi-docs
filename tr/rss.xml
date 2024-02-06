@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 19:00:58 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 19:00:58 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 19:03:09 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 19:03:09 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -890,22 +890,22 @@ Yeniden başlattıktan sonra yardımcı olmadıysa veya hiçbir hata bulunmadıy
 ]]></content:encoded>
     </item>
     <item>
-      <title>Infinite Stamina</title>
+      <title>Sonsuz Dayanıklılık</title>
       <link>https://korepi.com/tr/features/Player/infinite-stamina.html</link>
       <guid>https://korepi.com/tr/features/Player/infinite-stamina.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Infinite Stamina</source>
-      <description>Infinite Stamina disables the stamina consumption for all actions. Move Sync Packet Replacement: When this is enabled and Infinite Stamina is disabled, will prevent sending stam...</description>
+      <source url="https://korepi.com/tr/rss.xml">Sonsuz Dayanıklılık</source>
+      <description>Sonsuz Dayanıklılık tüm eylemler için dayanıklılık tüketimini devre dışı bırakır. Senkronizasyon Paketini Değiştirin: Bu etkinleştirildiğinde ve Sonsuz Dayanıklılık devre dışı b...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Infinite Stamina disables the stamina consumption for all actions.</h2>
-<h3> Move Sync Packet Replacement:</h3>
+      <content:encoded><![CDATA[<h2> Sonsuz Dayanıklılık tüm eylemler için dayanıklılık tüketimini devre dışı bırakır.</h2>
+<h3> Senkronizasyon Paketini Değiştirin:</h3>
 <ul>
-<li>When this is enabled and Infinite Stamina is disabled, will prevent sending stamina consuming action packets to server like running, climbing, swimming, etc.</li>
+<li>Bu etkinleştirildiğinde ve Sonsuz Dayanıklılık devre dışı bırakıldığında, sunucuya koşma, tırmanma, yüzme vb. gibi dayanıklılık tüketen eylem paketlerinin gönderilmesini önleyecektir.</li>
 </ul>
 <blockquote>
-<p>Note: Recommended to use Move Sync Packet Replacement.</p>
+<p>Not: Yürürken "Senkronizasyon Paketini Değiştirin" kullanılması önerilir.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/NZhfaMOLuY0?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Infinite Stamina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
