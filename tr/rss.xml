@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 17:03:00 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 17:03:00 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 17:03:43 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 17:03:43 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -231,10 +231,10 @@ In order to use custom skins in we will need to download:</p>
       <enclosure url="https://korepi.com/assets/images/docs/202312/example.png" type="image/png"/>
     </item>
     <item>
-      <title>Nasıl yapılır? Kısmı</title>
+      <title>\&amp;quot;Nasıl yapılır?\&amp;quot; Kısmı</title>
       <link>https://korepi.com/tr/guide/</link>
       <guid>https://korepi.com/tr/guide/</guid>
-      <source url="https://korepi.com/tr/rss.xml">Nasıl yapılır? Kısmı</source>
+      <source url="https://korepi.com/tr/rss.xml">\&amp;quot;Nasıl yapılır?\&amp;quot; Kısmı</source>
       <category>Guide</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
     </item>
