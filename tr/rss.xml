@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 20:00:33 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 20:00:33 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 20:04:26 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 20:04:26 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -1131,18 +1131,18 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 ]]></content:encoded>
     </item>
     <item>
-      <title>Quest Teleport</title>
+      <title>Göreve Işınlanma</title>
       <link>https://korepi.com/tr/features/Teleport/quest-teleport.html</link>
       <guid>https://korepi.com/tr/features/Teleport/quest-teleport.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Quest Teleport</source>
-      <description>Quest Teleports allows you to teleport to the current on-going quest location. To use this feature, you must click your navigation hotkey first and then click on quest teleport ...</description>
+      <source url="https://korepi.com/tr/rss.xml">Göreve Işınlanma</source>
+      <description>Göreve Işınlanma, sizi o anda seçtiğiniz görevin lokasyonuna ışınlar. Bu özelliği kullanmak için, bir Görev TP tuşu atayıp, bir görev seçip seçtiğiniz tuşa basmanız gerekmektedi...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Quest Teleports allows you to teleport to the current on-going quest location.</h2>
+      <content:encoded><![CDATA[<h2> Göreve Işınlanma, sizi o anda seçtiğiniz görevin lokasyonuna ışınlar.</h2>
 <ul>
-<li>To use this feature, you must click your navigation hotkey first and then click on quest teleport hotkey.</li>
+<li>Bu özelliği kullanmak için, bir Görev TP tuşu atayıp, bir görev seçip seçtiğiniz tuşa basmanız gerekmektedir.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
