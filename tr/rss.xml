@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 16:58:04 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 16:58:04 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 17:00:13 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 17:00:13 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -370,24 +370,24 @@ Warning: Don't do anything yet.</p>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
     </item>
     <item>
-      <title>Download</title>
+      <title>İndirme</title>
       <link>https://korepi.com/tr/start/download.html</link>
       <guid>https://korepi.com/tr/start/download.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Download</source>
-      <description>Introduction Welcome to our community! To pass the bot check and receive the Newcomer role, follow these steps. Step 1: Join our server and obtain the Newcomer and Fans roles If...</description>
+      <source url="https://korepi.com/tr/rss.xml">İndirme</source>
+      <description>Giriş Topluluğumuza hoş geldiniz! Bot kontrolünü geçmek ve Newcomer rolü için aşağıdaki adımları izleyin. Adım 1: Sunucumuza katılın ve Newcomer ve Fans rollerini edinin. Sunucu...</description>
       <category>Guide</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h1> Download</h1>
-<h2> Introduction</h2>
-<p>Welcome to our community! To pass the bot check and receive the <code>Newcomer</code> role, follow these steps.</p>
-<h3> Step 1: Join our server and obtain the <code>Newcomer</code> and <code>Fans</code> roles</h3>
-<p>If you haven't joined the server yet, please read the verification post, which describes how to join the server and obtain the <code>Newcomer</code> and <code>Fans</code> roles.</p>
-<h3> Step 2: Go to the channel <code>★⋅korepi-version-roles⋅★</code></h3>
-<p>Locate the channel <code>★⋅korepi-version-roles⋅★</code> and choose either the F or V version role. We recommend selecting the F role.</p>
-<h3> Step 3: Download the necessary resources</h3>
-<p>Once you've done that, you will gain access to the corresponding download channel: <code>★⋅f-download⋅★</code> or <code>★⋅v-download⋅★</code>.</p>
-<h3> Step 4: Ready!</h3>
-<p>In the channel, you will find a link to the current version and the password for the archive. Good luck!</p>
+      <content:encoded><![CDATA[<h1> İndirme</h1>
+<h2> Giriş</h2>
+<p>Topluluğumuza hoş geldiniz! Bot kontrolünü geçmek ve <code>Newcomer</code> rolü için aşağıdaki adımları izleyin.</p>
+<h3> Adım 1: Sunucumuza katılın ve <code>Newcomer</code> ve <code>Fans</code> rollerini edinin.</h3>
+<p>Sunucuya henüz katılmadıysanız, lütfen sunucuya nasıl katılacağınızı ve <code>Newcomer</code> ve <code>Fans</code> rollerini nasıl elde edeceğinizi açıklayan doğrulama gönderisini okuyun.</p>
+<h3> Adım 2: <code>★⋅korepi-version-roles⋅★</code> Kanalına gidin.</h3>
+<p><code>★⋅korepi-version-roles⋅★</code> kanalını bulun ve F veya V versiyon rolünü seçin. F rolünü seçmenizi öneririz.</p>
+<h3> Adım 3: Gerekli kaynakları indirin</h3>
+<p>Bunu yaptıktan sonra, ilgili indirme kanalına erişim kazanacaksınız: <code>★⋅f-download⋅★</code> veya <code>★⋅v-download⋅★</code>.</p>
+<h3> Adım 4: Hazır!</h3>
+<p>Kanalda, güncel sürüme bir bağlantı ve arşiv için şifre bulacaksınız. İyi şanslar!</p>
 ]]></content:encoded>
     </item>
     <item>
