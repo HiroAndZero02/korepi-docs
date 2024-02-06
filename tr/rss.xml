@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 18:54:10 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 18:54:10 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 18:55:24 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 18:55:24 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -853,15 +853,15 @@ Yeniden başlattıktan sonra yardımcı olmadıysa veya hiçbir hata bulunmadıy
 ]]></content:encoded>
     </item>
     <item>
-      <title>Fall Control</title>
+      <title>Düşme Kontrolü</title>
       <link>https://korepi.com/tr/features/Player/fall-control.html</link>
       <guid>https://korepi.com/tr/features/Player/fall-control.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Fall Control</source>
-      <description>Fall Control allows you to move with the selected speed while falling. Example Video:</description>
+      <source url="https://korepi.com/tr/rss.xml">Düşme Kontrolü</source>
+      <description>Düşme Kontrolü, düşerken seçilen hızla hareket etmenizi sağlar. Örnek Video:</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Fall Control allows you to move with the selected speed while falling.</h2>
-<h2> Example Video:</h2>
+      <content:encoded><![CDATA[<h2> Düşme Kontrolü, düşerken seçilen hızla hareket etmenizi sağlar.</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BHiabtwSSNc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Fall Control" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
