@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 20:08:07 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 20:08:07 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 20:08:38 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 20:08:38 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -1070,10 +1070,10 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
       <link>https://korepi.com/tr/features/Teleport/chest-teleport.html</link>
       <guid>https://korepi.com/tr/features/Teleport/chest-teleport.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Sandığa Işınlanma</source>
-      <description>Sandığa Işınlanma seçilen tuşa basıldığında sizi en yakın sandığa ışınlar. Not: Riski azaltmak için ışınlanmalar arası &amp;gt;15s bekleyiniz. Example Video:</description>
+      <description>Sandığa Işınlanma atanmış tuşa basıldığında sizi en yakın sandığa ışınlar. Not: Riski azaltmak için ışınlanmalar arası &amp;gt;15s bekleyiniz. Example Video:</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Sandığa Işınlanma seçilen tuşa basıldığında sizi en yakın sandığa ışınlar.</h2>
+      <content:encoded><![CDATA[<h2> Sandığa Işınlanma atanmış tuşa basıldığında sizi en yakın sandığa ışınlar.</h2>
 <blockquote>
 <p>Not: Riski azaltmak için ışınlanmalar arası <code>&gt;15s</code> bekleyiniz.</p>
 </blockquote>
