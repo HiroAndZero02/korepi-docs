@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 19:03:09 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 19:03:09 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 19:07:24 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 19:07:24 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -914,34 +914,34 @@ Yeniden başlattıktan sonra yardımcı olmadıysa veya hiçbir hata bulunmadıy
       <link>https://korepi.com/tr/features/Player/no-clip.html</link>
       <guid>https://korepi.com/tr/features/Player/no-clip.html</guid>
       <source url="https://korepi.com/tr/rss.xml">No Clip</source>
-      <description>No Clip will allow you to have no collision, move faster and fly. No Animation: When enabled it will disable animations of the character while using no clip.; Camera-relative mo...</description>
+      <description>No Clip çarpışma yaşamamanızı, daha hızlı hareket etmenizi ve uçmanızı sağlar. Animasyon Yok: No Clip Etkinleştirildiğinde, kullanırken karakterin animasyonlarını devre dışı bır...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> No Clip will allow you to have no collision, move faster and fly.</h2>
-<h3> No Animation:</h3>
+      <content:encoded><![CDATA[<h2> No Clip çarpışma yaşamamanızı, daha hızlı hareket etmenizi ve uçmanızı sağlar.</h2>
+<h3> Animasyon Yok:</h3>
 <ul>
-<li>When enabled it will disable animations of the character while using no clip.</li>
+<li>No Clip Etkinleştirildiğinde, kullanırken karakterin animasyonlarını devre dışı bırakır.</li>
 </ul>
-<h3> Camera-relative movement:</h3>
+<h3> Kameraya bağlı hareket:</h3>
 <ul>
-<li>When enabled, character will move based on camera view instead of where the character is facing.</li>
+<li>Etkinleştirildiğinde karakter, karakterin baktığı yer yerine kamera görünümüne göre hareket eder.</li>
 </ul>
-<h3> Alternate No-Clip:</h3>
+<h3> Alternatif No-Clip:</h3>
 <ul>
-<li>When enabled, no clip speed will change after pressing the selected hotkey at the designed speed.</li>
+<li>Etkinleştirildiğinde, seçilen kısayol tuşuna tasarlanan hızda basıldıktan sonra No Clip hızı değişmez.</li>
 </ul>
-<h3> Use Custom Keys:</h3>
+<h3> Özel Anahtarla Kullanma:</h3>
 <ul>
-<li>Enables the option to change no-clip directional controls.</li>
+<li>No Clip kontrollerini değiştirme seçeneğini etkinleştirir.</li>
 </ul>
 <h3> DragBack Bypass:</h3>
 <ul>
-<li>Prevents the server to drag the character back due to excessive speed.</li>
+<li>Sunucunun aşırı hız nedeniyle karakteri geri sürüklemesini önler.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use above <code>20</code>.</p>
+<p>Not: <code>20</code>nin üzerinde kullanılması önerilmez.</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/nPdq-yzBt3k?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - NoClip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
