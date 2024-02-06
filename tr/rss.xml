@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 19:50:50 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 19:50:50 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 19:57:07 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 19:57:07 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -1082,29 +1082,29 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 ]]></content:encoded>
     </item>
     <item>
-      <title>Custom Teleport</title>
+      <title>Özel Işınlanma</title>
       <link>https://korepi.com/tr/features/Teleport/custom-teleport.html</link>
       <guid>https://korepi.com/tr/features/Teleport/custom-teleport.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Custom Teleport</source>
-      <description>Custom Teleport: Allows the player to teleport to a selected location designed by a .json file. Interpolation Speed: Controls the teleportation animation speed, set to 0.1 to av...</description>
+      <source url="https://korepi.com/tr/rss.xml">Özel Işınlanma</source>
+      <description>Özel Işınlanma: Kullanıcıyı bir .json dosyası ile belirli bir noktaya ışınlar. Enterpolasyon Hızı: Işınlanma animasyonunun hızını ayarlar. Sorun yaşamamak için değeri 0.1 yapını...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Custom Teleport: Allows the player to teleport to a selected location designed by a <code>.json</code> file.</h2>
-<h3> Interpolation Speed:</h3>
+      <content:encoded><![CDATA[<h2> Özel Işınlanma: Kullanıcıyı bir <code>.json</code> dosyası ile belirli bir noktaya ışınlar.</h2>
+<h3> Enterpolasyon Hızı:</h3>
 <ul>
-<li>Controls the teleportation animation speed, set to <code>0.1</code> to avoid issues.</li>
+<li>Işınlanma animasyonunun hızını ayarlar. Sorun yaşamamak için değeri <code>0.1</code> yapınız.</li>
 </ul>
-<h3> Auto Teleport:</h3>
+<h3> Otomatik Işınlanma:</h3>
 <ul>
-<li>Teleports automatically following the order of the provided <code>.json</code> files.
+<li><code>.json</code> dosyalarının sıralamasına göre otomatik ışınlar
 <ul>
-<li>Teleport Next: Teleports to next location after pressing the selected hotkey.</li>
-<li>Teleport Previous: Teleports to previous location after pressing the selected hotkey.</li>
+<li>Sonrakine Işınlan: Seçili tuşa basınca sonraki ışınlanmaya ışınlar.</li>
+<li>Öncekine Işınlan: Seçili tuşa basınca önceki ışınlanmaya ışınlar.</li>
 </ul>
 </li>
 </ul>
 <blockquote>
-<p>Note: Recommended to set above <code>15s</code> for safety.</p>
+<p>Not: Riski azaltmak için ışınlanmalar arası <code>&gt;15s</code> bekleyiniz.</p>
 </blockquote>
 <h1> You can find out more on how to use this feature <a href="/tr/guide/custom-tp-setting.html" target="blank">here</a></h1>
 ]]></content:encoded>
