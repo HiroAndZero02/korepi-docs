@@ -6,14 +6,15 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 17:43:51 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 17:43:51 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 17:50:20 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 17:50:20 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
     <category>FAQ</category>
     <category>Features</category>
     <category>Troubleshoot</category>
+    <category>Özellikler</category>
     <item>
       <title>Versiyonlar arasındaki farklar</title>
       <link>https://korepi.com/tr/start/differences.html</link>
@@ -657,69 +658,69 @@ If after restarting it did not help or no errors were found, write this command:
       <enclosure url="https://korepi.com/assets/images/docs/202312/virus.png" type="image/png"/>
     </item>
     <item>
-      <title>Attack Effects</title>
+      <title>Saldırı Etkileri</title>
       <link>https://korepi.com/tr/features/Player/attack-effects.html</link>
       <guid>https://korepi.com/tr/features/Player/attack-effects.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Attack Effects</source>
-      <description>Attack Effects: Modifications for your attacks Multi-Hit Mode: One Punch Mode: Tries to kill the target with 1 hit.; Note: Not recommended to use. Modifies the number of attacks...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/tr/rss.xml">Saldırı Etkileri</source>
+      <description>Saldırı Etkileri: Saldırılarınız için modifikasyonlar Çoklu-Vuruş modu: Tek vuruş modu: Tek bir vuruş işe öldürmeyi dener.; Not: Kullanımı tercih edilmez. Riskli. Saldırılan hed...</description>
+      <category>Özellikler</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Attack Effects: Modifications for your attacks</h2>
-<h3> Multi-Hit Mode:</h3>
+      <content:encoded><![CDATA[<h2> Saldırı Etkileri: Saldırılarınız için modifikasyonlar</h2>
+<h3> Çoklu-Vuruş modu:</h3>
 <ul>
-<li>One Punch Mode: Tries to kill the target with 1 hit.</li>
+<li>Tek vuruş modu: Tek bir vuruş işe öldürmeyi dener.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use.</p>
+<p>Not: Kullanımı tercih edilmez. Riskli.</p>
 </blockquote>
 <ul>
-<li>Modifies the number of attacks received by the target.</li>
+<li>Saldırılan hedefe yapılan saldırı sayısını çoğaltır.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to go above <code>5</code>.</p>
+<p>Not: <code>5</code> üzerine çıkmak risklidir.</p>
 </blockquote>
-<h3> Multi-Target:</h3>
+<h3> Çoklu Hedef:</h3>
 <ul>
-<li>Hit all the targets within the selected radius from the target hit.</li>
+<li>Belirtilen alan içindeki tüm hedeflere vurabilme.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to change default settings.</p>
+<p>Not: Orijinal ayarlardan başka değişim yapmak risklidir.</p>
 </blockquote>
-<h3> Multi-Animation:</h3>
+<h3> Çoklu Animasyon:</h3>
 <ul>
-<li>Modifies the number of times the character does an action.</li>
+<li>Karakterin hareket sayısını arttırıyor</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use.</p>
+<p>Note: Kullanılması tavsiye edilmez, karakter sesini spamlatabilir.</p>
 </blockquote>
-<h3> Attack Speed:</h3>
+<h3> Saldırı Hızı:</h3>
 <ul>
-<li>Modifies the speed of the normal attacks from the player.</li>
+<li>Saldırı hızını değiştirir.</li>
 </ul>
 <blockquote>
-<p>Note: Not recommended to use above <code>1.5</code>.</p>
+<p>Note: Hız çarpanında <code>1.5</code> in üstüne çıkmak risklidir.</p>
 </blockquote>
-<h3> Custom Element:</h3>
+<h3> Özel Element:</h3>
 <ul>
-<li>Modifies the element of all outgoing attacks.</li>
+<li>Saldırıların element tipini değiştirir</li>
 </ul>
-<h3> Infuse Element:</h3>
+<h3> Saldırı elementi:</h3>
 <ul>
-<li>Modifies the element of normal attacks from sword, polearms and claymore.</li>
+<li>Normal(M1) den yapılan atağa seçilen element türünü ekler.</li>
 </ul>
-<h3> Auto Weakspot:</h3>
+<h3> Oto zayıf nokta:</h3>
 <ul>
-<li>Hits target weakspot therefore criting, only works with bow users.</li>
+<li>Menzilli karakterlerde otomatik zayıf noktalara vurmayı sağlar.</li>
 </ul>
-<h3> Critical Hit (<span style="color:yellow;">Sponsor</span>):</h3>
+<h3> Kritik Vuruş (<span style="color:yellow;">Sponsor</span>):</h3>
 <ul>
-<li>Changes the probability of critical hits.</li>
+<li>Kritikal hasar olasılığını değiştirir</li>
 </ul>
-<h3> Nullify Incoming Element:</h3>
+<h3> Gelen Elementi Etkisiz Bırak:</h3>
 <ul>
-<li>Will nullify any incoming element converting it to physical damage instead.</li>
+<li>Alınan bütün elementsel tepkimeleri normal hasara çevirir.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1BdKwxBjWyg?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Attack Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
