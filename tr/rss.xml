@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 19:07:24 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 19:07:24 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 19:10:55 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 19:10:55 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -946,19 +946,19 @@ Yeniden başlattıktan sonra yardımcı olmadıysa veya hiçbir hata bulunmadıy
 ]]></content:encoded>
     </item>
     <item>
-      <title>Player Speed</title>
+      <title>Oyuncu Hızı</title>
       <link>https://korepi.com/tr/features/Player/player-speed.html</link>
       <guid>https://korepi.com/tr/features/Player/player-speed.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Player Speed</source>
-      <description>Player Speed modifies player speed. Real. No Fake. Note: Recommended to use below 1.5. Note 2: Extra Movements (extra-movements.md) is recommended since its better synced with t...</description>
+      <source url="https://korepi.com/tr/rss.xml">Oyuncu Hızı</source>
+      <description>Oyuncu Hızı oyuncu hızını değiştirir. Gerçek. Sahte değil. Not: 1,5un altında kullanılması önerilir. Not 2: Ekstra Hareketler (extra-movements.md) sunucu ile daha iyi senkronize...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Player Speed modifies player speed. Real. No Fake.</h2>
+      <content:encoded><![CDATA[<h2> Oyuncu Hızı oyuncu hızını değiştirir. Gerçek. Sahte değil.</h2>
 <blockquote>
-<p>Note: Recommended to use below <code>1.5</code>.
-Note 2: <a href="/tr/features/Player/extra-movements.html" target="blank">Extra Movements</a> is recommended since its better synced with the server (safer)(Sponsor)</p>
+<p>Not: <code>1,5</code>un altında kullanılması önerilir.
+Not 2: <a href="/tr/features/Player/extra-movements.html" target="blank">Ekstra Hareketler</a> sunucu ile daha iyi senkronize edildiği için önerilir (daha güvenli) (Sponsor)</p>
 </blockquote>
-<h2> Example Video:</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HCxmOUMFRs8?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Player Speed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
