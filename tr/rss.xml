@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 18:15:20 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 18:15:20 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 18:26:37 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 18:26:37 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -98,54 +98,50 @@
       <enclosure url="https://korepi.com/assets/images/docs/202312/security.png" type="image/png"/>
     </item>
     <item>
-      <title>FAQ</title>
+      <title>Çok Sorulanlar</title>
       <link>https://korepi.com/tr/troubleshoot/faq.html</link>
       <guid>https://korepi.com/tr/troubleshoot/faq.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">FAQ</source>
-      <description>List of FAQs Is Korepi free? Yes, it is free, in order to get it for the first time you have to do a 7 days sign-in (../start/sign-in.md), you can skip this by Sponsoring (../st...</description>
+      <source url="https://korepi.com/tr/rss.xml">Çok Sorulanlar</source>
+      <description>En Sorulanlar Listesi Korepi Ücretsiz mi? Evet, ücretsizdir, ilk kez almak için 7 günlük bir deneme yapmanız gerekir Kayıt-olma (../start/sign-in.md), bunu şu şekilde atlayabili...</description>
       <category>FAQ</category>
       <pubDate>Tue, 19 Dec 2023 17:09:24 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> List of FAQs</h2>
-<h3> Is Korepi free?</h3>
-<p>Yes, it is free, in order to get it for the first time you have to do a 7 days <a href="/tr/start/sign-in.html" target="blank">sign-in</a>, you can skip this by <a href="/tr/start/sponsor.html" target="blank">Sponsoring</a>, after that you can get the license every time your key expires.</p>
+      <content:encoded><![CDATA[<h2> En Sorulanlar Listesi</h2>
+<h3> Korepi Ücretsiz mi?</h3>
+<p>Evet, ücretsizdir, ilk kez almak için 7 günlük bir deneme yapmanız gerekir <a href="/tr/start/sign-in.html" target="blank">Kayıt-olma</a>, bunu şu şekilde atlayabilirsiniz <a href="/tr/start/sponsor.html" target="blank">Sponsorluk</a>, bundan sonra anahtarınızın süresi her dolduğunda lisansı alabilirsiniz.</p>
 <hr>
-<h3> What is the .rar/.zip password?</h3>
+<h3> .rar/.zip şifresi nedir?</h3>
 <p>...</p>
-<p>Its <code>1234</code>, please read the download post next time.</p>
+<p>Bu <code>1234</code>, lütfen bir dahaki sefere indirme yazısını okuyun.</p>
 <hr>
-<h3> Why my config doesn't save?</h3>
-<p>Keep in mind you have to extract the <code>.rar/.zip</code> file you got in another folder.</p>
-<p>If config is still not saving after this step, please contact with any helper in the server for more help.</p>
+<h3> Konfigürasyonum neden kaydedilmiyor?</h3>
+<p>Aldığınız <code>.rar/.zip</code> dosyasını başka bir klasöre çıkarmanız gerektiğini unutmayın.</p>
+<p>Bu adımdan sonra yapılandırma hala kaydedilmiyorsa, daha fazla yardım için lütfen sunucudaki herhangi bir yardımcı ile iletişime geçin.</p>
 <hr>
-<h3> Where do i find themes?</h3>
-<p>You can find themes for your Korepi on <code>community share</code> or you can make your own in Korepi settings.</p>
+<h3> Temaları nereden bulabilirim?</h3>
+<p>Korepi'niz için temaları `community share' üzerinde bulabilir veya Korepi ayarlarından kendiniz yapabilirsiniz.</p>
 <p><img src="/assets/images/docs/202312/theme-settings.png" alt="" loading="lazy"></p>
-<p>Check <code>Theme Customization</code> to start making your own theme.</p>
+<p>Kendi temanızı oluşturmaya başlamak için <code>Theme Customization</code> seçeneğini işaretleyin.</p>
 <hr>
-<h3> Why did my /start streak reset?</h3>
-<p>Most likely you surpassed the reset time, it resets daily, if you skip 1 day it will reset entirely</p>
-<div class="hint-container info">
-<p class="hint-container-title">Reset time is at GMT/UTC+8 00:00 everyday. Please convert to your timezone.</p>
-</div>
+<h3> Neden /start serim sıfırlandı?</h3>
+<p>Büyük olasılıkla sıfırlama süresini aştınız, günlük olarak sıfırlanır, 1 günü atlarsanız tamamen sıfırlanır</p>
+<h2> ::: bilgi Sıfırlama saati her gün GMT/UTC+8 00:00'dır. Lütfen kendi zaman diliminize çevirin.
+:::</h2>
+<h3> Yeni bir güncelleme geldiğinde Korepi'yi kullanabilir miyim?</h3>
+<p>Hayır, yeni bir Korepi sürümü yayınlanana kadar beklemeniz gerekiyor.</p>
+<h2> ::: bilgi Eski enjektörü kullanmak işe yaramaz, Korepi güncellemesi yaklaşık 1-2 hafta sürer.
+:::</h2>
+<h3> Menü neden oyunda görünmüyor?</h3>
+<p>Korepi'yi başlatmadan önce tüm kaplamaları (MSI Afterburner, GeForce Experience, vb.) devre dışı bıraktığınızdan emin olun.</p>
 <hr>
-<h3> Can i use Korepi when a new update comes?</h3>
-<p>No, you need to wait till a new Korepi version gets released.</p>
-<div class="hint-container info">
-<p class="hint-container-title">Using the old injector wont work, Korepi update takes 1-2 weeks approximately.</p>
-</div>
+<h3> <span style="color:yellow;">Sponsor</span>'u nereden alabilirim ve ne kadar?</h3>
+<p><a href="/tr/start/sponsor.html" target="blank">Sponsor</a> rolünü sunucuda <code>#sponsorship</code> içinde sağlanan bağlantılardan alabilirsiniz.</p>
+<p>Sponsor rolünü alabilmek için en az 5$ bağış yapmanız gerekmektedir, 5$'ın altındaki diğer bağışlar dikkate alınmayacaktır.</p>
 <hr>
-<h3> Why the menu doesn't appear in game?</h3>
-<p>Make sure you have disabled every overlay(MSI Afterburner, GeForce Experience, etc.) before launching korepi.</p>
-<hr>
-<h3> Where do i get <span style="color:yellow;">Sponsor</span> and how much it is?</h3>
-<p>You can get <a href="/tr/start/sponsor.html" target="blank">Sponsor</a> from the links provided in <code>#sponsorship</code> in the server.</p>
-<p>In order to get the Sponsor role, you need to donate at least 5$, any other donation below 5$ will be ignored.</p>
-<hr>
-<h3> Why my game crashes in loading screen?</h3>
-<p>If you get a error like this:</p>
+<h3> Oyunum neden yükleme ekranında çöküyor?</h3>
+<p>Eğer böyle bir hata alırsanız:</p>
 <p><code>atidxx64.dll caused an Access Violation (0xc0000005) in module atidxx64.dll at 0033:43d1356c.</code></p>
-<p>Please update your drivers and try again.</p>
-<p>If you don't get that error, try setting more delay on launch on <code>cfg.ini</code>.</p>
+<p>Lütfen sürücülerinizi güncelleyin ve tekrar deneyin.</p>
+<p>Bu hatayı almazsanız, başlatma sırasında daha fazla gecikme ayarlamayı deneyin <code>cfg.ini</code>.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
     </item>
