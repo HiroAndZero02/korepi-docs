@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 20:05:14 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 20:05:14 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 20:07:51 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 20:07:51 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -1114,12 +1114,12 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
       <link>https://korepi.com/tr/features/Teleport/map-teleport.html</link>
       <guid>https://korepi.com/tr/features/Teleport/map-teleport.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Haritayla Işınlanma</source>
-      <description>Haritayla Işınlanma haritadan istediğiniz yere ışınlanmanızı sağlar. Bu özelliği kullanmak için özelliği aktif edip, Işınlanma Tuşu seçmeniz gerektir.; Işınlanmak için haritayı ...</description>
+      <description>Haritayla Işınlanma haritadan istediğiniz yere ışınlanmanızı sağlar. Bu özelliği kullanmak için özelliği aktif edip, Işınlanma Tuşu atamanız gerekmektedir.; Işınlanmak için hari...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Haritayla Işınlanma haritadan istediğiniz yere ışınlanmanızı sağlar.</h2>
 <ul>
-<li>Bu özelliği kullanmak için özelliği aktif edip, Işınlanma Tuşu seçmeniz gerektir.</li>
+<li>Bu özelliği kullanmak için özelliği aktif edip, Işınlanma Tuşu atamanız gerekmektedir.</li>
 <li>Işınlanmak için haritayı açıp seçtiğiniz tuşa basılı tutup haritada istediğiniz noktaya tıklayınız.</li>
 </ul>
 <h3> Hızlı Işınlanma (<span style="color:yellow;">Sponsor</span>):</h3>
