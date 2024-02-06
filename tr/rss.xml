@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 16:57:30 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 16:57:30 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 16:58:04 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 16:58:04 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -74,20 +74,20 @@
       <link>https://korepi.com/tr/guide/virus.html</link>
       <guid>https://korepi.com/tr/guide/virus.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Uygulamayı Dışlamalara nasıl ekleyebilirsiniz?</source>
-      <description>anti virüslerde aşamalar farklı olabilir! Korepiyi dışlamalar listesine nasıl ekleyebilirsiniz? (Windows Defender) Step 1: Antivirüsü açma Arama çubuğuna Windows Güvenliği Yazın...</description>
+      <description>anti virüslerde aşamalar farklı olabilir! Korepiyi dışlamalar listesine nasıl ekleyebilirsiniz? (Windows Defender) 1. Aşama: Antivirüsü açma Arama çubuğuna Windows Güvenliği Yaz...</description>
       <category>Guide</category>
       <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
       <content:encoded><![CDATA[<h2> ::: Başka anti virüslerde aşamalar farklı olabilir!
 :::</h2>
 <h2> Korepiyi dışlamalar listesine nasıl ekleyebilirsiniz? (Windows Defender)</h2>
-<h3> Step 1: Antivirüsü açma</h3>
+<h3> 1. Aşama: Antivirüsü açma</h3>
 <p>Arama çubuğuna <code>Windows Güvenliği</code> Yazın ve tıklayın</p>
 <p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
 <p><code>Virüs ve tehdit koruması</code>'na tıklayın.</p>
 <p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
 <p>Aşağı inin ve <code>Virüs ve tehdit ayarları</code>'nı seçin. Oradanda  <code>Ayarları yönet</code>'e tıklayın.</p>
 <p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
-<h3> Step 2: Dışlamaya ekleme</h3>
+<h3> 2. Aşama: Dışlamaya ekleme</h3>
 <p>Son aşamadan sonra, <code>Dışlamalar</code>'ı buluncaya kadar aşğı inin ve <code>Dışarıda bırakılanları ekle veya kaldır</code> a tıklayın.</p>
 <p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
 <p>Çıkan uyarıya evet diyin ve <code>Bir dışlama ekleyin</code>'e tıklayıp Klasörü seçin. Oradanda Korepinin bulunduğu klasörü seçin ve tammadır!</p>
