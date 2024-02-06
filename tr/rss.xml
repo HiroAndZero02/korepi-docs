@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 16:57:21 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 16:57:21 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 16:57:30 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 16:57:30 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -70,29 +70,27 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>How to add to exclusion list</title>
+      <title>Uygulamayı Dışlamalara nasıl ekleyebilirsiniz?</title>
       <link>https://korepi.com/tr/guide/virus.html</link>
       <guid>https://korepi.com/tr/guide/virus.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">How to add to exclusion list</source>
-      <description>Other antivirus will have similar steps, adapt depending on the antivirus you are using. How to add Korepi to antivirus exclusion list (Windows Defender) Step 1: Open the antivi...</description>
+      <source url="https://korepi.com/tr/rss.xml">Uygulamayı Dışlamalara nasıl ekleyebilirsiniz?</source>
+      <description>anti virüslerde aşamalar farklı olabilir! Korepiyi dışlamalar listesine nasıl ekleyebilirsiniz? (Windows Defender) Step 1: Antivirüsü açma Arama çubuğuna Windows Güvenliği Yazın...</description>
       <category>Guide</category>
       <pubDate>Sat, 23 Dec 2023 17:10:07 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Other antivirus will have similar steps, adapt depending on the antivirus you are using.</p>
-</div>
-<hr>
-<h2> How to add Korepi to antivirus exclusion list (Windows Defender)</h2>
-<h3> Step 1: Open the antivirus</h3>
-<p>Open the windows search bar and search for <code>Windows Security</code> and open it.</p>
+      <content:encoded><![CDATA[<h2> ::: Başka anti virüslerde aşamalar farklı olabilir!
+:::</h2>
+<h2> Korepiyi dışlamalar listesine nasıl ekleyebilirsiniz? (Windows Defender)</h2>
+<h3> Step 1: Antivirüsü açma</h3>
+<p>Arama çubuğuna <code>Windows Güvenliği</code> Yazın ve tıklayın</p>
 <p><img src="/assets/images/docs/202312/security.png" alt="" loading="lazy"></p>
-<p>We click on <code>Virus &amp; threat protection</code>.</p>
+<p><code>Virüs ve tehdit koruması</code>'na tıklayın.</p>
 <p><img src="/assets/images/docs/202312/virus1.png" alt="" loading="lazy"></p>
-<p>Then we scroll till we find <code>Virus &amp; threat protection settings</code> and click on <code>Manage settings</code>.</p>
+<p>Aşağı inin ve <code>Virüs ve tehdit ayarları</code>'nı seçin. Oradanda  <code>Ayarları yönet</code>'e tıklayın.</p>
 <p><img src="/assets/images/docs/202312/virus3.png" alt="" loading="lazy"></p>
-<h3> Step 2: Adding to the exclusion list</h3>
-<p>After following the last step, we will scroll until we find <code>Exclusions</code> and then we click on <code>Add or remove exclusions</code>.</p>
+<h3> Step 2: Dışlamaya ekleme</h3>
+<p>Son aşamadan sonra, <code>Dışlamalar</code>'ı buluncaya kadar aşğı inin ve <code>Dışarıda bırakılanları ekle veya kaldır</code> a tıklayın.</p>
 <p><img src="/assets/images/docs/202312/virus4.png" alt="" loading="lazy"></p>
-<p>Click yes to the popup, after that we click on <code>Add an Exclusion</code> and select folder, then we select our Korepi folder.</p>
+<p>Çıkan uyarıya evet diyin ve <code>Bir dışlama ekleyin</code>'e tıklayıp Klasörü seçin. Oradanda Korepinin bulunduğu klasörü seçin ve tammadır!</p>
 <h2> Video</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/BonLkFNnO9w" title="How to Exclude a File or Folder from Windows Defender Scan In Windows 10 [Tutorial]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
