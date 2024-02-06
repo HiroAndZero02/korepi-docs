@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 17:05:16 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 17:05:16 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 17:07:16 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 17:07:16 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -391,27 +391,27 @@ Warning: Don't do anything yet.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Joining the Server</title>
+      <title>Sunucuya Katılma</title>
       <link>https://korepi.com/tr/start/join.html</link>
       <guid>https://korepi.com/tr/start/join.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Joining the Server</source>
-      <description>Introduction Welcome to our community! To join the Discord server and start using Korepi, follow these steps. Step 1: Create a Discord Account If you don&amp;apos;t have a Discord accoun...</description>
+      <source url="https://korepi.com/tr/rss.xml">Sunucuya Katılma</source>
+      <description>Giriş Topluluğumuza hoş geldiniz! Discord sunucusuna katılmak ve Korepi&amp;apos;yi kullanmaya başlamak için aşağıdaki adımları izleyin. Adım 1: Bir Discord Hesabı Oluşturun Henüz bir Di...</description>
       <category>Guide</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Introduction</h2>
-<p>Welcome to our community! To join the Discord server and start using Korepi, follow these steps.</p>
-<h3> Step 1: Create a Discord Account</h3>
-<p>If you don't have a Discord account yet, start by creating a new one. Visit the <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">official Discord website</a> and follow the registration instructions.</p>
-<h3> Step 2: Download and Install Discord</h3>
-<p>After creating an account, download the <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">Discord client</a> for your operating system. Install the client following the on-screen instructions.</p>
-<h3> Step 3: Joining the Server</h3>
+      <content:encoded><![CDATA[<h2> Giriş</h2>
+<p>Topluluğumuza hoş geldiniz! Discord sunucusuna katılmak ve Korepi'yi kullanmaya başlamak için aşağıdaki adımları izleyin.</p>
+<h3> Adım 1: Bir Discord Hesabı Oluşturun</h3>
+<p>Henüz bir Discord hesabınız yoksa, yeni bir hesap oluşturarak başlayın. Ziyaret edin <a href="https://discord.com/" target="_blank" rel="noopener noreferrer">Resmi Discord Web Sitesi</a> ve kayıt talimatlarını izleyin.</p>
+<h3> Adım 2: Discord'u İndirin ve Kurun</h3>
+<p>Bir hesap oluşturduktan sonra <a href="https://discord.com/download" target="_blank" rel="noopener noreferrer">Discord Uygulaması</a> işletim sisteminiz için. Ekrandaki talimatları izleyerek istemciyi kurun.</p>
+<h3> Adım 3: Sunucuya Katılma</h3>
 <ol>
-<li>Copy the <a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">invitation link</a> for the Discord server provided by the administrator.</li>
-<li>In the Discord client, click the "+" button in the bottom left corner.</li>
-<li>Select "Join a Server."</li>
-<li>Paste the invitation link and click "Join."</li>
+<li><a href="https://discord.gg/cottonbuds" target="_blank" rel="noopener noreferrer">Discord Davet Linki</a> Yönetici tarafından sağlanan Discord sunucu davet bağlantısı için.</li>
+<li>Discord istemcisinde, sol alt köşedeki "+" düğmesine tıklayın.</li>
+<li>"Bir Sunucuya Katıl" seçeneğini seçin.</li>
+<li>Davet bağlantısını yapıştırın ve "Katıl "a tıklayın.</li>
 </ol>
-<p>If the invitation link is invalid, the server may be temporarily closed. Please wait for it to reopen. Now you can proceed to the next step.</p>
+<p>Davet bağlantısı geçersizse, sunucu geçici olarak kapalı olabilir. Lütfen yeniden açılmasını bekleyin. Şimdi bir sonraki adıma geçebilirsiniz.</p>
 ]]></content:encoded>
     </item>
     <item>
