@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 17:51:08 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 17:51:08 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 17:51:28 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 17:51:28 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -535,30 +535,30 @@ Warning: Don't do anything yet.</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Error 31-4302</title>
+      <title>Hata 31-4302</title>
       <link>https://korepi.com/tr/troubleshoot/31-4302.html</link>
       <guid>https://korepi.com/tr/troubleshoot/31-4302.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Error 31-4302</source>
-      <description>How to solve the error 31-4302 Method 1 If your game folder contains non-original files, this prompt might appear for you. Check that theres only original files like the next ex...</description>
+      <source url="https://korepi.com/tr/rss.xml">Hata 31-4302</source>
+      <description>31-4302 Hata nasıl çözülür? 1. Yöntem Oyun klasörünüz orijinal olmayan dosyalar içeriyorsa, bu istem sizin için görünebilir. Bir sonraki örnekte olduğu gibi sadece orijinal dosy...</description>
       <category>Guide</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to solve the error <code>31-4302</code></h2>
+      <content:encoded><![CDATA[<h2> <code>31-4302</code> Hata nasıl çözülür?</h2>
 <p><img src="/assets/images/docs/202312/31-4302.png" alt="" loading="lazy"></p>
-<h3> Method 1</h3>
-<p>If your game folder contains non-original files, this prompt might appear for you. Check that theres only original files like the next example:</p>
+<h3> 1. Yöntem</h3>
+<p>Oyun klasörünüz orijinal olmayan dosyalar içeriyorsa, bu istem sizin için görünebilir. Bir sonraki örnekte olduğu gibi sadece orijinal dosyaların olup olmadığını kontrol edin:</p>
 <p><img src="/assets/images/docs/202312/launcher.png" alt="" loading="lazy"></p>
 <p><img src="/assets/images/docs/202312/folder1.png" alt="" loading="lazy"></p>
-<p>If you keep getting the error in-game even after deleting the files continue reading.</p>
-<h3> Method 2</h3>
-<p>Go to your Korepi, go to <code>Settings --&gt; Other</code>.</p>
+<p>Dosyaları sildikten sonra bile oyun içinde hata almaya devam ediyorsanız okumaya devam edin.</p>
+<h3> 2. Yöntem</h3>
+<p>Korepi'nize gidin, <code>Ayarlar --&gt; Diğer</code> bölümüne gidin.</p>
 <p><img src="/assets/images/docs/202312/settings1.png" alt="" loading="lazy"></p>
-<p>Find <code>Bypass Intengrity</code> and uncheck it.</p>
+<p><code>Bypass Intengrity</code> seçeneğini bulun ve Tik işaretini kaldırın.</p>
 <p><img src="/assets/images/docs/202312/settings2.png" alt="" loading="lazy"></p>
-<p>Now the error should disapear.</p>
-<h2> What if i can't enter Korepi</h2>
-<p>Head to your Korepi folder and find <code>cfg.json</code>, and click <code>CTRL + F</code>, type <code>bypass</code> and search, set the value to <code>false</code> and open Korepi.</p>
-<h2> What if nothing works?</h2>
-<p>You have to reinstall the game.</p>
+<p>Şimdi hata ortadan kalkmalıdır.</p>
+<h2> Ya Korepi'ye giremezsem?</h2>
+<p>Korepi klasörünüze gidin ve <code>cfg.json</code> dosyasını bulun ve <code>CTRL + F</code> tuşlarına tıklayın, <code>bypass</code> yazın ve arayın, değeri <code>false</code> olarak ayarlayın ve Korepi'yi açın.</p>
+<h2> Ya hiçbiri işe yaramazsa?</h2>
+<p>Oyunu yeniden yüklemeniz gerekiyor.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/31-4302.png" type="image/png"/>
     </item>
