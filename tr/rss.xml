@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 18:26:37 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 18:26:37 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 18:34:54 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 18:34:54 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -751,42 +751,42 @@ Yeniden başlattıktan sonra yardımcı olmadıysa veya hiçbir hata bulunmadıy
 ]]></content:encoded>
     </item>
     <item>
-      <title>Cooldown Effects</title>
+      <title>Bekleme Süreleri Etkileri</title>
       <link>https://korepi.com/tr/features/Player/cooldown-effects.html</link>
       <guid>https://korepi.com/tr/features/Player/cooldown-effects.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Cooldown Effects</source>
-      <description>Cooldown Effects: Modifies the cooldown time of various actions. Max Burst Energy: Removes the requirement needed to use elemental bursts.; Note: Energy bubble may appear incomp...</description>
-      <category>Features</category>
+      <source url="https://korepi.com/tr/rss.xml">Bekleme Süreleri Etkileri</source>
+      <description>Bekleme Süresi etkileri: Bazı aksiyonların bekleme süresini değiştirir. Maks Elementsel Patlama Enerjisi: Elementsel Patlamada enerji gereksinimi kaldırır.; Not: Enerji Baloncuğ...</description>
+      <category>Özellikler</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Cooldown Effects: Modifies the cooldown time of various actions.</h2>
-<h3> Max Burst Energy:</h3>
+      <content:encoded><![CDATA[<h2> Bekleme Süresi etkileri: Bazı aksiyonların bekleme süresini değiştirir.</h2>
+<h3> Maks Elementsel Patlama Enerjisi:</h3>
 <ul>
-<li>Removes the requirement needed to use elemental bursts.</li>
+<li>Elementsel Patlamada enerji gereksinimi kaldırır.</li>
 </ul>
 <blockquote>
-<p>Note: Energy bubble may appear incomplete but will be still usable.</p>
+<p>Not: Enerji Baloncuğunu hala dolu gözükmeyebilir ama hala kullanabilirsiniz.</p>
 </blockquote>
-<h3> No Avatar Skill Cooldown: Removes the cooldown for character skill and burst.</h3>
+<h3> Karakter Beceri Kullanma Süresi Yok:</h3>
 <ul>
-<li>Reduce Skill/Burst Cooldown: When activated instead of removing the cooldown, it will be set to the selected values if the cooldown is higher than the value selected.</li>
+<li>Becerinin süresini azaltma: Süreyi direk kaldırmak yerine gecikme ekler.</li>
 </ul>
 <blockquote>
-<p>Note: You can use any value for CD, but don't spam it too hard. <code>ex. 40 times in 1m</code></p>
+<p>Not: Gecikme süresi için herhangi değeri kullanabilirsiniz ama kısa bir sürede fazla spamlamayın. <code>ex. 1 dakikada 40 kez</code></p>
 </blockquote>
-<h3> No Sprint Cooldown:</h3>
+<h3> Sprint Bekleme Süresi Yok:</h3>
 <ul>
-<li>Removes the delay between sprints.</li>
+<li>Süratlı ileri fırlama arasındaki bekleme süresini kaldırır</li>
 </ul>
-<h3> Instant Charged Attack:</h3>
+<h3> Ani Yüklü Hasar:</h3>
 <ul>
-<li>Bow: Removes the charge time for bow users.</li>
-<li>Other: Removes the charge time for other weapon users.</li>
+<li>Yay: Yayı aniden şarj eder.</li>
+<li>Başka: Başka silahları aniden şarj eder.</li>
 </ul>
-<h3> No Vehicle Skill Cooldown:</h3>
+<h3> Araç Beceri Süresi Yok:</h3>
 <ul>
-<li>Removes the cooldown for the boat skills.</li>
+<li>Bot becerisi süresini kaldırır</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
