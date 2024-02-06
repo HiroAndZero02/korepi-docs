@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepiに関するヘルプ</description>
     <language>tr</language>
-    <pubDate>Tue, 06 Feb 2024 19:57:07 GMT</pubDate>
-    <lastBuildDate>Tue, 06 Feb 2024 19:57:07 GMT</lastBuildDate>
+    <pubDate>Tue, 06 Feb 2024 20:00:01 GMT</pubDate>
+    <lastBuildDate>Tue, 06 Feb 2024 20:00:01 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -1110,23 +1110,23 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 ]]></content:encoded>
     </item>
     <item>
-      <title>Map Teleport</title>
+      <title>Haritayla Işınlanma</title>
       <link>https://korepi.com/tr/features/Teleport/map-teleport.html</link>
       <guid>https://korepi.com/tr/features/Teleport/map-teleport.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Map Teleport</source>
-      <description>Map Teleport allows you to teleport to anywhere on the map. To use map teleport you have to enable it, and select the hotkey you going to use.; To teleport, hold the hotkey whil...</description>
+      <source url="https://korepi.com/tr/rss.xml">Haritayla Işınlanma</source>
+      <description>Haritayla Işınlanma haritadan istediğiniz yere ışınlanmanızı sağlar. Bu özelliği kullanmak için özelliği aktif edip, Işınlanma Tuşu seçmeniz gerektir.; Işınlanmak için haritayı ...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Map Teleport allows you to teleport to anywhere on the map.</h2>
+      <content:encoded><![CDATA[<h2> Haritayla Işınlanma haritadan istediğiniz yere ışınlanmanızı sağlar.</h2>
 <ul>
-<li>To use map teleport you have to enable it, and select the hotkey you going to use.</li>
-<li>To teleport, hold the hotkey while having the map opened and click on where you want to teleport.</li>
+<li>Bu özelliği kullanmak için özelliği aktif edip, Işınlanma Tuşu seçmeniz gerektir.</li>
+<li>Işınlanmak için haritayı açıp seçtiğiniz tuşa basılı tutup haritada istediğiniz noktaya tıklayınız.</li>
 </ul>
-<h3> Fast Teleport (<span style="color:yellow;">Sponsor</span>):</h3>
+<h3> Hızlı Işınlanma (<span style="color:yellow;">Sponsor</span>):</h3>
 <ul>
-<li>Disables the loading screen within the selected distance while teleporting.</li>
+<li>Işınlanınca ortaya çıkan yüklenme ekranını kaldırır.</li>
 </ul>
-<h2> Example Video:</h2>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
