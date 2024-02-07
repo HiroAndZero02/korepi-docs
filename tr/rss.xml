@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 12:08:02 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 12:08:02 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 12:09:27 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 12:09:27 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -682,14 +682,14 @@ Yeniden başlattıktan sonra yardımcı olmadıysa veya hiçbir hata bulunmadıy
 </blockquote>
 <h3> Çoklu Hedef:</h3>
 <ul>
-<li>Belirtilen alan içindeki tüm hedeflere vurabilme.</li>
+<li>Belirtilen alan içindeki tüm hedeflere vurabilmeyi sağlar.</li>
 </ul>
 <blockquote>
 <p>Not: Orijinal ayarlardan başka değişim yapmak risklidir.</p>
 </blockquote>
 <h3> Çoklu Animasyon:</h3>
 <ul>
-<li>Karakterin hareket sayısını arttırıyor</li>
+<li>Karakterin aksiyon sayısını arttırır</li>
 </ul>
 <blockquote>
 <p>Note: Kullanılması tavsiye edilmez, karakter sesini spamlatabilir.</p>
@@ -769,7 +769,7 @@ Yeniden başlattıktan sonra yardımcı olmadıysa veya hiçbir hata bulunmadıy
 <li>Elementsel Patlamada enerji gereksinimi kaldırır.</li>
 </ul>
 <blockquote>
-<p>Not: Enerji Baloncuğunu hala dolu gözükmeyebilir ama hala kullanabilirsiniz.</p>
+<p>Not: Enerji Baloncuğunu dolu gözükmeyebilir ama hala kullanabilirsiniz.</p>
 </blockquote>
 <h3> Karakter Beceri Kullanma Süresi Yok:</h3>
 <ul>
