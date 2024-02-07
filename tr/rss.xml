@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 07:21:05 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 07:21:05 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 07:21:44 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 07:21:44 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -261,11 +261,11 @@
       <enclosure url="https://korepi.com/assets/images/docs/202312/example.png" type="image/png"/>
     </item>
     <item>
-      <title>Talimatlar</title>
+      <title>Adımlar</title>
       <link>https://korepi.com/tr/guide/</link>
       <guid>https://korepi.com/tr/guide/</guid>
-      <source url="https://korepi.com/tr/rss.xml">Talimatlar</source>
-      <category>Guide</category>
+      <source url="https://korepi.com/tr/rss.xml">Adımlar</source>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
     </item>
     <item>
