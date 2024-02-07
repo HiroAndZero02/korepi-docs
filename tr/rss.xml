@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 07:03:07 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 07:03:07 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 07:03:40 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 07:03:40 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -15,7 +15,6 @@
     <category>FAQ</category>
     <category>Features</category>
     <category>SorunlarHakkında</category>
-    <category>Troubleshoot</category>
     <category>Özellikler</category>
     <item>
       <title>Free Version</title>
@@ -577,7 +576,7 @@ In order to use custom skins in we will need to download:</p>
       <guid>https://korepi.com/tr/troubleshoot/faq-error.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Yaygın İnjektör Hataları</source>
       <description>Yaygın hataların listesi Korepi&amp;apos;m neden kayboluyor? Anti-virüsünüzü devre dışı bıraktığınızdan emin olun, yeni bir klasör oluşturun ve hariç tutulanlara ekleyin. Korepi&amp;apos;yi hariç...</description>
-      <category>Troubleshoot</category>
+      <category>SorunlarHakkında</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Yaygın hataların listesi</h2>
 <h3> Korepi'm neden kayboluyor?</h3>
