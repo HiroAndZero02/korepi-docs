@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 07:00:37 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 07:00:37 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 07:00:45 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 07:00:45 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -483,7 +483,7 @@ In order to use custom skins in we will need to download:</p>
       <guid>https://korepi.com/tr/start/sponsor.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Sponsor Olma</source>
       <description>Nasıl Sponsor Olunur? Sponsor, olmak için en az 5$ veya başka bir para birimi kullanıyorsanız eşdeğeri bağışta bulunmanız gerekir. Nereye bağış yapabilirim? Zaten sunucuya girdi...</description>
-      <category>Guide</category>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Nasıl <span style="color:yellow;">Sponsor</span> Olunur?</h2>
 <p><span style="color:yellow;">Sponsor</span>, olmak için en az 5$ veya başka bir para birimi kullanıyorsanız eşdeğeri bağışta bulunmanız gerekir.</p>
