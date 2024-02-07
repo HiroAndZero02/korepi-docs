@@ -12,7 +12,7 @@ order: 1
 ## Saldırı Etkileri: Saldırılarınız için modifikasyonlar
 
 ### Çoklu-Vuruş modu:
-- Tek vuruş modu: Tek bir vuruş işe öldürmeyi dener.
+- Tek vuruş modu: Tek bir vuruş ile öldürmeyi dener.
 > Not: Kullanımı tercih edilmez. Riskli.
 - Saldırılan hedefe yapılan saldırı sayısını çoğaltır.
 > Not: `5` üzerine çıkmak risklidir.
