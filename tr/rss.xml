@@ -6,14 +6,15 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 07:01:36 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 07:01:36 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 07:03:07 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 07:03:07 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
     <category>Kılavuzlar</category>
     <category>FAQ</category>
     <category>Features</category>
+    <category>SorunlarHakkında</category>
     <category>Troubleshoot</category>
     <category>Özellikler</category>
     <item>
@@ -567,7 +568,7 @@ In order to use custom skins in we will need to download:</p>
       <link>https://korepi.com/tr/troubleshoot/</link>
       <guid>https://korepi.com/tr/troubleshoot/</guid>
       <source url="https://korepi.com/tr/rss.xml">Hataların Listesi</source>
-      <category>Troubleshoot</category>
+      <category>SorunlarHakkında</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
     </item>
     <item>
