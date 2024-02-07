@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 07:00:04 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 07:00:04 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 07:00:37 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 07:00:37 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -444,7 +444,7 @@ In order to use custom skins in we will need to download:</p>
       <guid>https://korepi.com/tr/start/sponsor-exclusive.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Sponsorlara Özel Özellikler</source>
       <description>Oyuncu Kritik Vuruş Oranı Olasılıkları (https://www.youtube.com/watch?v=ByucMEL7pXM&amp;list=PL5eI1Tb64p54t7LyUaudX0ume6HbS4ikD&amp;index=1&amp;pp=iAQB); Ekstra Hareket (https://www.youtube...</description>
-      <category>Guide</category>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h3> Oyuncu</h3>
 <ul>
