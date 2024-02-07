@@ -17,10 +17,10 @@ order: 1
 - Saldırılan hedefe yapılan saldırı sayısını çoğaltır.
 > Not: `5` üzerine çıkmak risklidir.
 ### Çoklu Hedef:
-- Belirtilen alan içindeki tüm hedeflere vurabilme.
+- Belirtilen alan içindeki tüm hedeflere vurabilmeyi sağlar.
 > Not: Orijinal ayarlardan başka değişim yapmak risklidir.
 ### Çoklu Animasyon:
-- Karakterin hareket sayısını arttırıyor
+- Karakterin aksiyon sayısını arttırır
 > Note: Kullanılması tavsiye edilmez, karakter sesini spamlatabilir.
 ### Saldırı Hızı:
 - Saldırı hızını değiştirir.
