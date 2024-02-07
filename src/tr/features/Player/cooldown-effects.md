@@ -15,7 +15,7 @@ order: 4
 > Not: Enerji Baloncuğunu dolu gözükmeyebilir ama hala kullanabilirsiniz.
 ### Karakter Beceri Kullanma Süresi Yok:
 - Becerinin süresini azaltma: Süreyi direk kaldırmak yerine gecikme ekler.
-> Not: Gecikme süresi için herhangi değeri kullanabilirsiniz ama kısa bir sürede fazla spamlamayın. `ex. 1 dakikada 40 kez`
+> Not: Gecikme süresi için herhangi değeri kullanabilirsiniz ama kısa bir sürede fazla spamlamayın. `Örn. 1 dakikada 40 kez`
 ### Sprint Bekleme Süresi Yok:
 - Süratlı ileri fırlama arasındaki bekleme süresini kaldırır
 ### Ani Yüklü Hasar:
