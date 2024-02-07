@@ -6,13 +6,13 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 07:03:40 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 07:03:40 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 07:03:52 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 07:03:52 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
     <category>Kılavuzlar</category>
-    <category>FAQ</category>
+    <category>SSS</category>
     <category>Features</category>
     <category>SorunlarHakkında</category>
     <category>Özellikler</category>
@@ -136,7 +136,7 @@
       <guid>https://korepi.com/tr/troubleshoot/faq.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Çok Sorulanlar</source>
       <description>En Sorulanlar Listesi Korepi Ücretsiz mi? Evet, ücretsizdir, ilk kez almak için 7 günlük bir deneme yapmanız gerekir Kayıt-olma (../start/sign-in.md), bunu şu şekilde atlayabili...</description>
-      <category>FAQ</category>
+      <category>SSS</category>
       <pubDate>Tue, 19 Dec 2023 17:09:24 GMT</pubDate>
       <content:encoded><![CDATA[<h2> En Sorulanlar Listesi</h2>
 <h3> Korepi Ücretsiz mi?</h3>
