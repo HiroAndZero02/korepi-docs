@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 07:10:05 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 07:10:05 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 07:21:05 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 07:21:05 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -220,43 +220,43 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>How to use custom skins</title>
+      <title>Özel görünümler nasıl kullanılır?</title>
       <link>https://korepi.com/tr/guide/3DM-tutorial.html</link>
       <guid>https://korepi.com/tr/guide/3DM-tutorial.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">How to use custom skins</source>
-      <description>If GIMI shows echo off on the cmd, you can just press Numpad 0 to remove it, you can also edit d3dx.ini and search for hunting= and set to 0. How to use custom Skins in Korepi I...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/tr/rss.xml">Özel görünümler nasıl kullanılır?</source>
+      <description>Eğer GIMI cmd üzerinde echo off gösteriyorsa, bunu kaldırmak için sadece Numpad 0a basabilirsiniz, ayrıca d3dx.ini dosyasını düzenleyebilir ve hunting= araması yapabilir ve 0 ol...</description>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">If GIMI shows `echo off` on the cmd, you can just press `Numpad 0` to remove it, you can also edit `d3dx.ini` and search for `hunting=` and set to `0`.</p>
+<p class="hint-container-title">Eğer GIMI cmd üzerinde `echo off` gösteriyorsa, bunu kaldırmak için sadece `Numpad 0`a basabilirsiniz, ayrıca `d3dx.ini` dosyasını düzenleyebilir ve `hunting=` araması yapabilir ve `0` olarak ayarlayabilirsiniz.</p>
 </div>
 <hr>
-<h2> How to use custom Skins in Korepi</h2>
+<h2> Korepi'de Özel Görünümler Nasıl Kullanılır</h2>
 <p><img src="/assets/images/docs/202312/example.png" alt="" loading="lazy">
-In order to use custom skins in we will need to download:</p>
+Özel görünümleri kullanmak için indirmemiz gerekecek:</p>
 <p><code>3DMigoto(GIMI)</code>.</p>
-<h2> <span style="color:blue;">Method 1</span></h2>
-<h3> Step 1: Download <code>GIMI</code></h3>
-<p>Download <code>GIMI</code> in their oficial <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> and download the file named: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<h2> <span style="color:blue;">1. Yöntem</span></h2>
+<h3> Adım 1: <code>GIMI</code> indir</h3>
+<p>Resmi <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> adresinden <code>GIMI</code> dosyasını indirin ve <code>3dmigoto-GIMI-for-playing-mods.zip</code> adlı dosyayı indirin.</p>
 <p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
-<h3> Step 2: Extract <code>GIMI</code> into a folder</h3>
-<p>After downloading <code>GIMI</code>, we will need to extract it into any folder of your choice, inside that folder you will find <code>d3d11.dll</code>, we will copy the path and add <code>/d3d11.dll</code> to the end, for example:</p>
+<h3> Adım 2: <code>GIMI</code>yi bir klasöre çıkarın</h3>
+<p><code>GIMI</code> yi indirdikten sonra, istediğiniz herhangi bir klasöre çıkarmamız gerekecek, bu klasörün içinde <code>d3d11.dll</code> bulacaksınız, yolu kopyalayacağız ve sonuna <code>/d3d11.dll</code> ekleyeceğiz, örneğin:</p>
 <p><code>"path/d3d11.dll"</code></p>
-<h3> Step 3: Add <code>GIMI</code> to Korepi</h3>
-<p>To do this we will need to add the next lines in <code>cfg.ini</code> inside korepi folder.</p>
+<h3> Adım 3: Korepi'ye <code>GIMI</code> ekleyin</h3>
+<p>Bunu yapmak için korepi klasörü içindeki <code>cfg.ini</code> dosyasına aşağıdaki satırları eklememiz gerekecektir.</p>
 <p><img src="/assets/images/docs/202312/3dm-2.png" alt="" loading="lazy"></p>
-<p>On <code>DllPath</code> we will paste the path we copied in the last step.</p>
+<p><code>DllPath</code> üzerine son adımda kopyaladığımız yolu yapıştıracağız.</p>
 <p><img src="/assets/images/docs/202312/3dm-3.png" alt="" loading="lazy"></p>
-<h3> Step 4: Open Korepi</h3>
-<p>If you followed the steps right, Korepi should launch with <code>GIMI</code> every time.</p>
-<h2> <span style="color:blue;">Method 2</span></h2>
-<h3> Step 1: Download <code>GIMI</code></h3>
-<p>Download <code>GIMI</code> in their oficial <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> and download the file named: <code>3dmigoto-GIMI-for-playing-mods.zip</code>.</p>
+<h3> Adım 4: Korepi'yi açın</h3>
+<p>Eğer adımları doğru takip ettiyseniz, Korepi her seferinde <code>GIMI</code> ile başlamalıdır.</p>
+<h2> <span style="color:blue;">2. Yöntem</span></h2>
+<h3> Adım 1: <code>GIMI</code> indir</h3>
+<p>Resmi <a href="https://github.com/SilentNightSound/GI-Model-Importer/releases/tag/v7.0" target="_blank" rel="noopener noreferrer">Github</a> adresinden <code>GIMI</code> dosyasını indirin ve <code>3dmigoto-GIMI-for-playing-mods.zip</code> adlı dosyayı indirin.</p>
 <p><img src="/assets/images/docs/202312/3dm-1.png" alt="" loading="lazy"></p>
-<h3> Step 2: Extract <code>GIMI</code> into a folder</h3>
-<p>After downloading <code>GIMI</code>, we will need to extract it into any folder of your choice, inside that folder you will find <code>3DMigoto Loader.exe</code>, we will run this file first.</p>
-<h3> Step 4: Open Korepi</h3>
-<p>After running <code>GIMI</code>, we will run Korepi, <code>GIMI</code> will be loaded with Korepi after this, you will need to repeat these steps every time you want to launch Korepi with <code>GIMI</code>.</p>
+<h3> Adım 2: <code>GIMI</code>yi bir klasöre çıkarın</h3>
+<p><code>GIMI</code> yi indirdikten sonra, istediğiniz herhangi bir klasöre çıkarmamız gerekecek, bu klasörün içinde <code>3DMigoto Loader.exe</code> bulacaksınız, önce bu dosyayı çalıştıracağız.</p>
+<h3> Adım 4: Korepi'yi açın</h3>
+<p><code>GIMI</code> yi çalıştırdıktan sonra Korepi'yi çalıştıracağız, <code>GIMI</code> bundan sonra Korepi ile birlikte yüklenecektir, Korepi'yi <code>GIMI</code> ile her başlatmak istediğinizde bu adımları tekrarlamanız gerekecektir.</p>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/example.png" type="image/png"/>
     </item>
