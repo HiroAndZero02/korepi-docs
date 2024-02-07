@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 07:03:52 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 07:03:52 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 07:10:05 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 07:10:05 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -203,20 +203,20 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>Install Skins</title>
+      <title>Görünüm İndirme</title>
       <link>https://korepi.com/tr/guide/3DM-skin.html</link>
       <guid>https://korepi.com/tr/guide/3DM-skin.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Install Skins</source>
-      <description>How to install custom Skins in GIMI Step 1: Download the Skin Head to Gamebanana (https://gamebanana.com/games/8552) and download a skin of your choice. Step 2: Install the Skin...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/tr/rss.xml">Görünüm İndirme</source>
+      <description>GIMI Özel Görünümler nasıl yüklenir Adım 1: Görünümü İndirin Gamebanana (https://gamebanana.com/games/8552) adresine gidin ve istediğiniz bir görünümü indirin. Adım 2: Görünümü ...</description>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to install custom Skins in <code>GIMI</code></h2>
-<h3> Step 1: Download the Skin</h3>
-<p>Head to <a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> and download a skin of your choice.</p>
-<h3> Step 2: Install the Skin</h3>
-<p>We will head to our <code>GIMI</code> folder and look for <code>Mods</code> folder, inside that folder we will extract the file we just downloaded.</p>
-<h3> Step 3: Apply the skin</h3>
-<p>If we are already inside the game we will use <code>F10</code> to reload the Skins, if not, we will open the game following the <a href="/tr/guide/3DM-tutorial.html" target="blank">last post</a> and the skin should be applied.</p>
+      <content:encoded><![CDATA[<h2> <code>GIMI</code> Özel Görünümler nasıl yüklenir</h2>
+<h3> Adım 1: Görünümü İndirin</h3>
+<p><a href="https://gamebanana.com/games/8552" target="_blank" rel="noopener noreferrer">Gamebanana</a> adresine gidin ve istediğiniz bir görünümü indirin.</p>
+<h3> Adım 2: Görünümü Yükleyin</h3>
+<p><code>GIMI</code> klasörümüze gideceğiz ve <code>Mods</code> klasörünü arayacağız, bu klasörün içinde az önce indirdiğimiz dosyayı çıkaracağız.</p>
+<h3> Adım 3: Görünümü uygulayın</h3>
+<p>Zaten oyunun içindeysek, Kaplamaları yeniden yüklemek için <code>F10</code> kullanacağız, değilse, <a href="/tr/guide/3DM-tutorial.html" target="blank">Son Gönderi</a> 'yi izleyerek oyunu açacağız ve görünüm uygulanmalıdır.</p>
 ]]></content:encoded>
     </item>
     <item>
