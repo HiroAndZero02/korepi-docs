@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 07:47:13 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 07:47:13 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 07:52:58 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 07:52:58 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -269,32 +269,32 @@
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
     </item>
     <item>
-      <title>How to use Custom TP</title>
+      <title>Özel TP nasıl kullanılır</title>
       <link>https://korepi.com/tr/guide/custom-tp-setting.html</link>
       <guid>https://korepi.com/tr/guide/custom-tp-setting.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">How to use Custom TP</source>
-      <description>How to use custom TP Step 1: Settings to use We will use the following settings. The recommended delay time is &amp;gt;15s. Step 2: Download the .json files for the custom tp We can fi...</description>
-      <category>Guide</category>
+      <source url="https://korepi.com/tr/rss.xml">Özel TP nasıl kullanılır</source>
+      <description>Özel TP nasıl kullanılır Adım 1: Kullanılacak ayarlar Aşağıdaki ayarları kullanacağız. Önerilen gecikme süresi &amp;gt;15 saniyedir. Adım 2: Özel TP için .json dosyalarını indirin Bu d...</description>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> How to use custom TP</h2>
-<h3> Step 1: Settings to use</h3>
-<p>We will use the following settings.</p>
+      <content:encoded><![CDATA[<h2> Özel TP nasıl kullanılır</h2>
+<h3> Adım 1: Kullanılacak ayarlar</h3>
+<p>Aşağıdaki ayarları kullanacağız.</p>
 <p><img src="/assets/images/docs/202312/teleport1.png" alt="" loading="lazy"></p>
-<p>The recommended delay time is &gt;15s.</p>
-<h3> Step 2: Download the <code>.json</code> files for the custom tp</h3>
-<p>We can find these files in <code>community-share</code> pinned post in the server. Download the ones that suits your needs.</p>
-<h3> Step 3: Select the tp files</h3>
-<p>Head to custom tp settings and go to this section:</p>
+<p>Önerilen gecikme süresi &gt;15 saniyedir.</p>
+<h3> Adım 2: Özel TP için <code>.json</code> dosyalarını indirin</h3>
+<p>Bu dosyaları sunucuda <code>community-share</code> sabitlenmiş yazısında bulabiliriz. İhtiyaçlarınıza uygun olanları indirin.</p>
+<h3> Adım 3: TP dosyalarını seçin</h3>
+<p>Özel TP ayarlarına gidin ve bu bölüme geçin:</p>
 <p><img src="/assets/images/docs/202312/teleport2.png" alt="" loading="lazy"></p>
-<p>Click on select path and select the folder containing the tp files you want to use.</p>
-<h3> Step 4: How to start the tps</h3>
-<p>After selecting the folder, check this checkbox:</p>
+<p>Yol seç üzerine tıklayın ve kullanmak istediğiniz TP dosyalarını içeren klasörü seçin.</p>
+<h3> Adım 4: TP nasıl başlatılır</h3>
+<p>Klasörü seçtikten sonra bu onay kutusunu işaretleyin:</p>
 <p><img src="/assets/images/docs/202312/teleport3.png" alt="" loading="lazy"></p>
-<p>After that we click on <code>Select</code>:</p>
+<p>Bundan sonra <code>Select</code> seçeneğine tıklıyoruz:</p>
 <p><img src="/assets/images/docs/202312/teleport4.png" alt="" loading="lazy"></p>
-<h3> Step 5: Enjoy the ride</h3>
-<p>The TPs will start automatically, if you got <a href="/tr/start/sponsor.html" target="blank">Sponsor</a>, you will be able to see the progress and remaining time.</p>
-<h2> Video</h2>
+<h3> Adım 5: Yolculuğun tadını çıkarın</h3>
+<p>TP'ler otomatik olarak başlayacaktır, eğer <a href="/tr/start/sponsor.html" target="blank">Sponsor</a> aldıysanız, ilerlemeyi ve kalan süreyi görebileceksiniz.</p>
+<h2> Örnek Video</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/1ft6xYr2EmM" title="Part 1 - How to Use 'Custom Teleports' in Colorpicker or Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
       <enclosure url="https://korepi.com/assets/images/docs/202312/teleport1.png" type="image/png"/>
