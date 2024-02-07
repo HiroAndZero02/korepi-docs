@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 12:09:27 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 12:09:27 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 12:09:42 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 12:09:42 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -776,7 +776,7 @@ Yeniden başlattıktan sonra yardımcı olmadıysa veya hiçbir hata bulunmadıy
 <li>Becerinin süresini azaltma: Süreyi direk kaldırmak yerine gecikme ekler.</li>
 </ul>
 <blockquote>
-<p>Not: Gecikme süresi için herhangi değeri kullanabilirsiniz ama kısa bir sürede fazla spamlamayın. <code>ex. 1 dakikada 40 kez</code></p>
+<p>Not: Gecikme süresi için herhangi değeri kullanabilirsiniz ama kısa bir sürede fazla spamlamayın. <code>Örn. 1 dakikada 40 kez</code></p>
 </blockquote>
 <h3> Sprint Bekleme Süresi Yok:</h3>
 <ul>
