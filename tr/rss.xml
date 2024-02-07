@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 06:58:30 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 06:58:30 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 06:59:05 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 06:59:05 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -374,7 +374,7 @@ In order to use custom skins in we will need to download:</p>
       <guid>https://korepi.com/tr/start/download.html</guid>
       <source url="https://korepi.com/tr/rss.xml">İndirme</source>
       <description>Giriş Topluluğumuza hoş geldiniz! Bot kontrolünü geçmek ve Newcomer rolü için aşağıdaki adımları izleyin. Adım 1: Sunucumuza katılın ve Newcomer ve Fans rollerini edinin. Sunucu...</description>
-      <category>Guide</category>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h1> İndirme</h1>
 <h2> Giriş</h2>
