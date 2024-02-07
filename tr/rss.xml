@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 08:06:54 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 08:06:54 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 12:08:02 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 12:08:02 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -663,13 +663,13 @@ Yeniden başlattıktan sonra yardımcı olmadıysa veya hiçbir hata bulunmadıy
       <link>https://korepi.com/tr/features/Player/attack-effects.html</link>
       <guid>https://korepi.com/tr/features/Player/attack-effects.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Saldırı Etkileri</source>
-      <description>Saldırı Etkileri: Saldırılarınız için modifikasyonlar Çoklu-Vuruş modu: Tek vuruş modu: Tek bir vuruş işe öldürmeyi dener.; Not: Kullanımı tercih edilmez. Riskli. Saldırılan hed...</description>
+      <description>Saldırı Etkileri: Saldırılarınız için modifikasyonlar Çoklu-Vuruş modu: Tek vuruş modu: Tek bir vuruş ile öldürmeyi dener.; Not: Kullanımı tercih edilmez. Riskli. Saldırılan hed...</description>
       <category>Özellikler</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Saldırı Etkileri: Saldırılarınız için modifikasyonlar</h2>
 <h3> Çoklu-Vuruş modu:</h3>
 <ul>
-<li>Tek vuruş modu: Tek bir vuruş işe öldürmeyi dener.</li>
+<li>Tek vuruş modu: Tek bir vuruş ile öldürmeyi dener.</li>
 </ul>
 <blockquote>
 <p>Not: Kullanımı tercih edilmez. Riskli.</p>
