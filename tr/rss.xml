@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 12:09:42 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 12:09:42 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 12:10:38 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 12:10:38 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -789,7 +789,7 @@ Yeniden başlattıktan sonra yardımcı olmadıysa veya hiçbir hata bulunmadıy
 </ul>
 <h3> Araç Beceri Süresi Yok:</h3>
 <ul>
-<li>Bot becerisi süresini kaldırır</li>
+<li>Bot/Tekne becerisi süresini kaldırır</li>
 </ul>
 <h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/qv5ykSL3Ojw?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Cooldown Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
