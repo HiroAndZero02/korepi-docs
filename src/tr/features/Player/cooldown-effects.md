@@ -22,7 +22,7 @@ order: 4
 - Yay: Yayı aniden şarj eder.
 - Başka: Başka silahları aniden şarj eder.
 ### Araç Beceri Süresi Yok:
-- Bot becerisi süresini kaldırır
+- Bot/Tekne becerisi süresini kaldırır
 
 ## Örnek Video:
 
