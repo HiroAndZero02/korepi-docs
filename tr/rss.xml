@@ -6,11 +6,12 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 06:56:41 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 06:56:41 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 06:58:30 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 06:58:30 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
+    <category>Kılavuzlar</category>
     <category>FAQ</category>
     <category>Features</category>
     <category>Troubleshoot</category>
@@ -53,7 +54,7 @@
       <guid>https://korepi.com/tr/start/differences.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Versiyonlar arasındaki farklar</source>
       <description>V ve F versiyonları arasındaki temel farklar Versiyon F VersiyonV Versyion --------------------- ÖzellikleriAynıAynı Güncelleme BildirimiX✓ Çoklu-Örnek (../guide/multi-instance....</description>
-      <category>Guide</category>
+      <category>Kılavuzlar</category>
       <pubDate>Sat, 13 Jan 2024 00:53:24 GMT</pubDate>
       <content:encoded><![CDATA[<h1> V ve F versiyonları arasındaki farklar.</h1>
 <h2> V ve F versiyonları arasındaki temel farklar</h2>
