@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Wed, 07 Feb 2024 08:06:14 GMT</pubDate>
-    <lastBuildDate>Wed, 07 Feb 2024 08:06:14 GMT</lastBuildDate>
+    <pubDate>Wed, 07 Feb 2024 08:06:34 GMT</pubDate>
+    <lastBuildDate>Wed, 07 Feb 2024 08:06:34 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -350,7 +350,7 @@
       <guid>https://korepi.com/tr/guide/multi-instance.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Aynı anda iki tane oyun uygulamasını açma</source>
       <description>Aynı anda iki tane oyun uygulamasını açabilirsiniz Local(V) Versiyonunda yapılabilir bir özelliktir</description>
-      <category>Guide</category>
+      <category>Kılavuzlar</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
       <content:encoded><![CDATA[<h2> Aynı anda iki tane oyun uygulamasını açabilirsiniz</h2>
 <h2> ::: Sadece Local(V) Versiyonunda yapılabilir bir özelliktir
