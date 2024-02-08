@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Custom Teleport
-author: Schvis, OpHellfire, HiroAndZero
+author: Schvis
 order: 3
 ---
 
