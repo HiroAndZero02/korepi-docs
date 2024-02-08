@@ -5,7 +5,7 @@ category:
   - Özellikler
 tag:
   -  Otomatik Koşu
-author: Schvis, OpHellfire, HiroAndZero
+author: Schvis
 order: 2
 ---
 
