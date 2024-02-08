@@ -1,5 +1,5 @@
 ---
-title: Constellation Modifier
+title: Takımyıldız Değiştiricisi
 icon: retweet
 category:
   - Features
