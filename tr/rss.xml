@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Thu, 08 Feb 2024 12:08:01 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 12:08:01 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 12:59:02 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 12:59:02 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -1278,16 +1278,16 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 ]]></content:encoded>
     </item>
     <item>
-      <title>Fake Time</title>
+      <title>Sahte Zaman</title>
       <link>https://korepi.com/tr/features/Visuals/fake-time.html</link>
       <guid>https://korepi.com/tr/features/Visuals/fake-time.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Fake Time</source>
-      <description>Fake Time: Changes in game time (hour and minutes).;</description>
+      <source url="https://korepi.com/tr/rss.xml">Sahte Zaman</source>
+      <description>Sahte Zaman: Oyun içi saati değiştirir (Saat ve dakika formatında).;</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Fake Time:</h2>
+      <content:encoded><![CDATA[<h2> Sahte Zaman:</h2>
 <ul>
-<li>Changes in game time (hour and minutes).</li>
+<li>Oyun içi saati değiştirir (Saat ve dakika formatında).</li>
 </ul>
 ]]></content:encoded>
     </item>
