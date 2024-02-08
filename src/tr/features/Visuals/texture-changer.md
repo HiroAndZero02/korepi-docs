@@ -1,5 +1,5 @@
 ---
-title: Texture Changer
+title: Doku Değiştirme  
 icon: list
 category:
   - Features
@@ -8,7 +8,7 @@ tag:
 author: Schvis
 order: 16
 ---
-::: info Its better to use [GIMI](../../guide/3DM-tutorial.md) for changing textures.
+::: Bilgi: [GIMI](../../guide/3DM-tutorial.md)(Bkz. 3DMI) Kullanmak daha elverişlidir ve daha stabildir.
 :::
 ---
-## Texture Changer allows to switch character parts to the provided .png files.
+## Doku Değiştirme karakter bölmelerini istenilen PNG ile değiştirir.
