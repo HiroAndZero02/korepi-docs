@@ -6,8 +6,8 @@
     <link>https://korepi.com/jp/</link>
     <description>Korepiに関するヘルプ</description>
     <language>ja-JP</language>
-    <pubDate>Thu, 08 Feb 2024 14:07:48 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 14:07:48 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 14:11:04 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 14:11:04 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Guide</category>
@@ -662,6 +662,103 @@
       <enclosure url="https://korepi.com/assets/images/docs/202312/theme-settings.png" type="image/png"/>
     </item>
     <item>
+      <title>神の目テレポート</title>
+      <link>https://korepi.com/jp/features/Teleport/0culi-teleport.html</link>
+      <guid>https://korepi.com/jp/features/Teleport/0culi-teleport.html</guid>
+      <source url="https://korepi.com/jp/rss.xml">神の目テレポート</source>
+      <description>神の瞳テレポートは、ホットキーが押されると、最も近いレンダリングされた神の瞳の場所にプレイヤーをテレポートさせる。 注意：安全のため、テレポートの間隔を15秒以上空けること。 ビデオ:</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> 神の瞳テレポートは、ホットキーが押されると、最も近いレンダリングされた神の瞳の場所にプレイヤーをテレポートさせる。</h2>
+<blockquote>
+<p>注意：安全のため、テレポートの間隔を<code>15秒以上</code>空けること。</p>
+</blockquote>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>チェストテレポート</title>
+      <link>https://korepi.com/jp/features/Teleport/chest-teleport.html</link>
+      <guid>https://korepi.com/jp/features/Teleport/chest-teleport.html</guid>
+      <source url="https://korepi.com/jp/rss.xml">チェストテレポート</source>
+      <description>Chest Teleportはホットキーが押された時に、最も近いレンダリングされたチェストの場所にプレイヤーをテレポートさせます。 注：安全のため、テレポートの間隔を15秒以上空けること。 ビデオ:</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> Chest Teleportはホットキーが押された時に、最も近いレンダリングされたチェストの場所にプレイヤーをテレポートさせます。</h2>
+<blockquote>
+<p>注：安全のため、テレポートの間隔を<code>15秒以上</code>空けること。</p>
+</blockquote>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>カスタムテレポート</title>
+      <link>https://korepi.com/jp/features/Teleport/custom-teleport.html</link>
+      <guid>https://korepi.com/jp/features/Teleport/custom-teleport.html</guid>
+      <source url="https://korepi.com/jp/rss.xml">カスタムテレポート</source>
+      <description>カスタムテレポート：.jsonファイルでリストされた場所にテレポートすることができます。 TP速度: テレポートの速度をコントロールする。問題を避けるために0.1に設定する。; 自動テレポート: 提供された.jsonファイルの順序に従って自動的にテレポートする。; 次へTP：選択したホットキーを押した後、次の場所にテレポートする。; 前へTP: 選択し...</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> カスタムテレポート：<code>.jsonファイル</code>でリストされた場所にテレポートすることができます。</h2>
+<h3> TP速度:</h3>
+<ul>
+<li>テレポートの速度をコントロールする。問題を避けるために0.1に設定する。</li>
+</ul>
+<h3> 自動テレポート:</h3>
+<ul>
+<li>提供された<code>.jsonファイル</code>の順序に従って自動的にテレポートする。
+<ul>
+<li>次へTP：選択したホットキーを押した後、次の場所にテレポートする。</li>
+<li>前へTP: 選択したホットキーを押した後、前の場所にテレポートする。</li>
+</ul>
+</li>
+</ul>
+<blockquote>
+<p>注：安全のため、<code>15秒以上</code>に設定することを推奨。</p>
+</blockquote>
+<h1> この機能の使用方法については <a href="/jp/guide/custom-tp-setting.html" target="blank">こちら</a></h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>マップテレポート</title>
+      <link>https://korepi.com/jp/features/Teleport/map-teleport.html</link>
+      <guid>https://korepi.com/jp/features/Teleport/map-teleport.html</guid>
+      <source url="https://korepi.com/jp/rss.xml">マップテレポート</source>
+      <description>マップ テレポートを使用すると、マップ上の任意の場所にテレポートできます。 マップテレポートを使うには、それを有効にして、使用するホットキーを選択する必要がある。; テレポートするには、マップを開いた状態でホットキーを押し、テレポートしたい場所をクリックする。; 高速テレポート (スポンサー): テレポート中に選択した距離内のロード画面を無効にする。;...</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> マップ テレポートを使用すると、マップ上の任意の場所にテレポートできます。</h2>
+<ul>
+<li>マップテレポートを使うには、それを有効にして、使用するホットキーを選択する必要がある。</li>
+<li>テレポートするには、マップを開いた状態でホットキーを押し、テレポートしたい場所をクリックする。</li>
+</ul>
+<h3> 高速テレポート (<span style="color:yellow;">スポンサー</span>):</h3>
+<ul>
+<li>テレポート中に選択した距離内のロード画面を無効にする。</li>
+</ul>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>クエストテレポート</title>
+      <link>https://korepi.com/jp/features/Teleport/quest-teleport.html</link>
+      <guid>https://korepi.com/jp/features/Teleport/quest-teleport.html</guid>
+      <source url="https://korepi.com/jp/rss.xml">クエストテレポート</source>
+      <description>クエスト テレポートを使用すると、現在進行中のクエストの場所にテレポートできます。 この機能を使うには、まずナビゲーションホットキーをクリックし、次にクエストテレポートホットキーをクリックする必要がある。; ビデオ:</description>
+      <category>特徴</category>
+      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h2> クエスト テレポートを使用すると、現在進行中のクエストの場所にテレポートできます。</h2>
+<ul>
+<li>この機能を使うには、まずナビゲーションホットキーをクリックし、次にクエストテレポートホットキーをクリックする必要がある。</li>
+</ul>
+<h2> ビデオ:</h2>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
+    </item>
+    <item>
       <title>攻撃効果</title>
       <link>https://korepi.com/jp/features/Player/attack-effects.html</link>
       <guid>https://korepi.com/jp/features/Player/attack-effects.html</guid>
@@ -1059,103 +1156,6 @@
 </ul>
 <h2> ビデオ:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/XGztUEy82sE?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Remote Utilities (Sponsor)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>神の目テレポート</title>
-      <link>https://korepi.com/jp/features/Teleport/0culi-teleport.html</link>
-      <guid>https://korepi.com/jp/features/Teleport/0culi-teleport.html</guid>
-      <source url="https://korepi.com/jp/rss.xml">神の目テレポート</source>
-      <description>神の瞳テレポートは、ホットキーが押されると、最も近いレンダリングされた神の瞳の場所にプレイヤーをテレポートさせる。 注意：安全のため、テレポートの間隔を15秒以上空けること。 ビデオ:</description>
-      <category>特徴</category>
-      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> 神の瞳テレポートは、ホットキーが押されると、最も近いレンダリングされた神の瞳の場所にプレイヤーをテレポートさせる。</h2>
-<blockquote>
-<p>注意：安全のため、テレポートの間隔を<code>15秒以上</code>空けること。</p>
-</blockquote>
-<h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>チェストテレポート</title>
-      <link>https://korepi.com/jp/features/Teleport/chest-teleport.html</link>
-      <guid>https://korepi.com/jp/features/Teleport/chest-teleport.html</guid>
-      <source url="https://korepi.com/jp/rss.xml">チェストテレポート</source>
-      <description>Chest Teleportはホットキーが押された時に、最も近いレンダリングされたチェストの場所にプレイヤーをテレポートさせます。 注：安全のため、テレポートの間隔を15秒以上空けること。 ビデオ:</description>
-      <category>特徴</category>
-      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Chest Teleportはホットキーが押された時に、最も近いレンダリングされたチェストの場所にプレイヤーをテレポートさせます。</h2>
-<blockquote>
-<p>注：安全のため、テレポートの間隔を<code>15秒以上</code>空けること。</p>
-</blockquote>
-<h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/j2Yu31J7Yh4?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Oculi/ChestTeleport" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>カスタムテレポート</title>
-      <link>https://korepi.com/jp/features/Teleport/custom-teleport.html</link>
-      <guid>https://korepi.com/jp/features/Teleport/custom-teleport.html</guid>
-      <source url="https://korepi.com/jp/rss.xml">カスタムテレポート</source>
-      <description>カスタムテレポート：.jsonファイルでリストされた場所にテレポートすることができます。 TP速度: テレポートの速度をコントロールする。問題を避けるために0.1に設定する。; 自動テレポート: 提供された.jsonファイルの順序に従って自動的にテレポートする。; 次へTP：選択したホットキーを押した後、次の場所にテレポートする。; 前へTP: 選択し...</description>
-      <category>特徴</category>
-      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> カスタムテレポート：<code>.jsonファイル</code>でリストされた場所にテレポートすることができます。</h2>
-<h3> TP速度:</h3>
-<ul>
-<li>テレポートの速度をコントロールする。問題を避けるために0.1に設定する。</li>
-</ul>
-<h3> 自動テレポート:</h3>
-<ul>
-<li>提供された<code>.jsonファイル</code>の順序に従って自動的にテレポートする。
-<ul>
-<li>次へTP：選択したホットキーを押した後、次の場所にテレポートする。</li>
-<li>前へTP: 選択したホットキーを押した後、前の場所にテレポートする。</li>
-</ul>
-</li>
-</ul>
-<blockquote>
-<p>注：安全のため、<code>15秒以上</code>に設定することを推奨。</p>
-</blockquote>
-<h1> この機能の使用方法については <a href="/jp/guide/custom-tp-setting.html" target="blank">こちら</a></h1>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>マップテレポート</title>
-      <link>https://korepi.com/jp/features/Teleport/map-teleport.html</link>
-      <guid>https://korepi.com/jp/features/Teleport/map-teleport.html</guid>
-      <source url="https://korepi.com/jp/rss.xml">マップテレポート</source>
-      <description>マップ テレポートを使用すると、マップ上の任意の場所にテレポートできます。 マップテレポートを使うには、それを有効にして、使用するホットキーを選択する必要がある。; テレポートするには、マップを開いた状態でホットキーを押し、テレポートしたい場所をクリックする。; 高速テレポート (スポンサー): テレポート中に選択した距離内のロード画面を無効にする。;...</description>
-      <category>特徴</category>
-      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> マップ テレポートを使用すると、マップ上の任意の場所にテレポートできます。</h2>
-<ul>
-<li>マップテレポートを使うには、それを有効にして、使用するホットキーを選択する必要がある。</li>
-<li>テレポートするには、マップを開いた状態でホットキーを押し、テレポートしたい場所をクリックする。</li>
-</ul>
-<h3> 高速テレポート (<span style="color:yellow;">スポンサー</span>):</h3>
-<ul>
-<li>テレポート中に選択した距離内のロード画面を無効にする。</li>
-</ul>
-<h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/Xm3mTEbIE9g?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Map TP/Fast TP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>クエストテレポート</title>
-      <link>https://korepi.com/jp/features/Teleport/quest-teleport.html</link>
-      <guid>https://korepi.com/jp/features/Teleport/quest-teleport.html</guid>
-      <source url="https://korepi.com/jp/rss.xml">クエストテレポート</source>
-      <description>クエスト テレポートを使用すると、現在進行中のクエストの場所にテレポートできます。 この機能を使うには、まずナビゲーションホットキーをクリックし、次にクエストテレポートホットキーをクリックする必要がある。; ビデオ:</description>
-      <category>特徴</category>
-      <pubDate>Wed, 03 Jan 2024 06:45:45 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> クエスト テレポートを使用すると、現在進行中のクエストの場所にテレポートできます。</h2>
-<ul>
-<li>この機能を使うには、まずナビゲーションホットキーをクリックし、次にクエストテレポートホットキーをクリックする必要がある。</li>
-</ul>
-<h2> ビデオ:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/HNdQu39G2Tc?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - QuestTP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
     <item>

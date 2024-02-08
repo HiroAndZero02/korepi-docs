@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Thu, 08 Feb 2024 14:07:48 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 14:07:48 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 14:11:04 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 14:11:04 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -1381,28 +1381,28 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 ]]></content:encoded>
     </item>
     <item>
-      <title>Monster Changer</title>
+      <title>Canavar Değiştirici</title>
       <link>https://korepi.com/tr/features/Visuals/monster-changer.html</link>
       <guid>https://korepi.com/tr/features/Visuals/monster-changer.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Monster Changer</source>
-      <description>Monster Changer: When enabled, all new rendered monsters will be changed visually to the selected monster.; Exclude Animals: Enable or Disable changing animals.; Custom Monster ...</description>
+      <source url="https://korepi.com/tr/rss.xml">Canavar Değiştirici</source>
+      <description>Canavar Değiştirici: When enabled, all new rendered monsters will be changed visually to the selected monster.; Hayvanları Es Geç: Hayvanları değiştirmemeyi sağlar.; Özel Canava...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Monster Changer:</h2>
+      <content:encoded><![CDATA[<h2> Canavar Değiştirici:</h2>
 <ul>
 <li>When enabled, all new rendered monsters will be changed visually to the selected monster.</li>
 </ul>
-<h3> Exclude Animals:</h3>
+<h3> Hayvanları Es Geç:</h3>
 <ul>
-<li>Enable or Disable changing animals.</li>
+<li>Hayvanları değiştirmemeyi sağlar.</li>
 </ul>
-<h3> Custom Monster ID:</h3>
+<h3> Özel Canavar ID'si:</h3>
 <ul>
-<li>Use ID instead of the provided list.</li>
+<li>Değişen modelleri Özel Canavar ID'si ile değiştirir.</li>
 </ul>
-<h3> Randomize Monster:</h3>
+<h3> Canavarları Rastgele Değiştirme:</h3>
 <ul>
-<li>The change will be random.</li>
+<li>Değişen canavar modelleri rastgele değiştirir.</li>
 </ul>
 ]]></content:encoded>
     </item>
