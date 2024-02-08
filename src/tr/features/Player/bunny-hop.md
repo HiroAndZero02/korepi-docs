@@ -5,7 +5,7 @@ category:
   - Özellikler
 tag:
   - Bunny Hop
-author: Schvis, OpHellfire, HiroAndZero
+author: Schvis
 order: 3
 ---
 
