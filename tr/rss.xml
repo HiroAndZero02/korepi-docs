@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Thu, 08 Feb 2024 14:30:42 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 14:30:42 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 14:33:05 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 14:33:05 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -1446,18 +1446,16 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 ]]></content:encoded>
     </item>
     <item>
-      <title>Texture Changer</title>
+      <title>Doku Değiştirme</title>
       <link>https://korepi.com/tr/features/Visuals/texture-changer.html</link>
       <guid>https://korepi.com/tr/features/Visuals/texture-changer.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Texture Changer</source>
-      <description>Its better to use GIMI (../../guide/3DM-tutorial.md) for changing textures. Texture Changer allows to switch character parts to the provided .png files.</description>
+      <source url="https://korepi.com/tr/rss.xml">Doku Değiştirme</source>
+      <description>GIMI (../../guide/3DM-tutorial.md)(Bkz. 3DMI) Kullanmak daha elverişlidir ve daha stabildir. Doku Değiştirme karakter bölmelerini istenilen PNG ile değiştirir.</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container info">
-<p class="hint-container-title">Its better to use [GIMI](../../guide/3DM-tutorial.md) for changing textures.</p>
-</div>
-<hr>
-<h2> Texture Changer allows to switch character parts to the provided .png files.</h2>
+      <content:encoded><![CDATA[<h2> ::: Bilgi: <a href="/tr/guide/3DM-tutorial.html" target="blank">GIMI</a>(Bkz. 3DMI) Kullanmak daha elverişlidir ve daha stabildir.
+:::</h2>
+<h2> Doku Değiştirme karakter bölmelerini istenilen PNG ile değiştirir.</h2>
 ]]></content:encoded>
     </item>
     <item>
