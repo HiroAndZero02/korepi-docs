@@ -5,7 +5,7 @@ category:
   - Özellikler
 tag:
   - Bekleme Süreleri Etkileri
-author: Schvis, OpHellfire, HiroAndZero
+author: Schvis
 order: 4
 ---
 
