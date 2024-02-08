@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Thu, 08 Feb 2024 13:10:20 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 13:10:20 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 13:45:45 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 13:45:45 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -1318,28 +1318,28 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 ]]></content:encoded>
     </item>
     <item>
-      <title>Free Camera</title>
+      <title>Özgür Kamera</title>
       <link>https://korepi.com/tr/features/Visuals/free-camera.html</link>
       <guid>https://korepi.com/tr/features/Visuals/free-camera.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Free Camera</source>
-      <description>Free Camera: Move the camera freely without being locked to the character.; Freeze Character Animation: Freezes character animations.; Make Character Invisible: Makes character ...</description>
+      <source url="https://korepi.com/tr/rss.xml">Özgür Kamera</source>
+      <description>Özgür Kamera: Kameranızı istediğiniz gibi hareket ettirebilirsiniz.; Karakter Animasyonlarını Dondur: Karakter animasyonlarını durdurur.; Karakteri Görünmez Yap: Karakteri görün...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Free Camera:</h2>
+      <content:encoded><![CDATA[<h2> Özgür Kamera:</h2>
 <ul>
-<li>Move the camera freely without being locked to the character.</li>
+<li>Kameranızı istediğiniz gibi hareket ettirebilirsiniz.</li>
 </ul>
-<h3> Freeze Character Animation:</h3>
+<h3> Karakter Animasyonlarını Dondur:</h3>
 <ul>
-<li>Freezes character animations.</li>
+<li>Karakter animasyonlarını durdurur.</li>
 </ul>
-<h3> Make Character Invisible:</h3>
+<h3> Karakteri Görünmez Yap:</h3>
 <ul>
-<li>Makes character invisible.</li>
+<li>Karakteri görünmez yapar.</li>
 </ul>
-<h3> Block User Input:</h3>
+<h3> Kullanıcı Hareketlerini Engelle:</h3>
 <ul>
-<li>Blocks user input therefore character wont move while moving the camera.</li>
+<li>Karakter hareketlerini kamerayı hareket ettirirken engeller.</li>
 </ul>
 ]]></content:encoded>
     </item>
