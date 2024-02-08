@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - God Mode
-author: Schvis, OpHellfire, HiroAndZero
+author: Schvis
 order: 7
 ---
 
