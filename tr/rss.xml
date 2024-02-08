@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Thu, 08 Feb 2024 12:01:07 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 12:01:07 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 12:03:25 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 12:03:25 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -1244,14 +1244,14 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 ]]></content:encoded>
     </item>
     <item>
-      <title>Emotion Changer</title>
+      <title>Duygu Değiştirici</title>
       <link>https://korepi.com/tr/features/Visuals/emotion-changer.html</link>
       <guid>https://korepi.com/tr/features/Visuals/emotion-changer.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Emotion Changer</source>
-      <description>Emotion Changer allows the player to change the current character emotion to the selected one.</description>
+      <source url="https://korepi.com/tr/rss.xml">Duygu Değiştirici</source>
+      <description>Duygu değiştirici şu anki aktif karakterin yüz ifadesini seçilen ifadeye çevirir.</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Emotion Changer allows the player to change the current character emotion to the selected one.</h2>
+      <content:encoded><![CDATA[<h2> Duygu değiştirici şu anki aktif karakterin yüz ifadesini seçilen ifadeye çevirir.</h2>
 ]]></content:encoded>
     </item>
     <item>
