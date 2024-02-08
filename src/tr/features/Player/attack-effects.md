@@ -5,7 +5,7 @@ category:
   - Özellikler
 tag:
   - Saldırı Etkileri
-author: Schvis, OpHellfire, HiroAndZero
+author: Schvis
 order: 1
 ---
 
