@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Thu, 08 Feb 2024 12:03:25 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 12:03:25 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 12:08:01 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 12:08:01 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -1255,25 +1255,25 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 ]]></content:encoded>
     </item>
     <item>
-      <title>Extra Visual Settings</title>
+      <title>Ekstra Görsel Özellikler</title>
       <link>https://korepi.com/tr/features/Visuals/extra-visual-settings.html</link>
       <guid>https://korepi.com/tr/features/Visuals/extra-visual-settings.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Extra Visual Settings</source>
-      <description>Extra Visual Settings: Gamma: Allows you to change the gamma value of the game.; Outline Width: Allows you to change the outline of every character in the game.; Anti-Aliasing: ...</description>
+      <source url="https://korepi.com/tr/rss.xml">Ekstra Görsel Özellikler</source>
+      <description>Ekstra Görsel Özellikler: Gamma: Oyunun gamma değerini değiştirmenizi sağlar.; Çerçeve Eni: Karakterleri çerçeveleyen çizgilerin enini değiştirmenizi sağlar.; Anti-Aliasing(Kena...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Extra Visual Settings:</h2>
+      <content:encoded><![CDATA[<h2> Ekstra Görsel Özellikler:</h2>
 <h3> Gamma:</h3>
 <ul>
-<li>Allows you to change the gamma value of the game.</li>
+<li>Oyunun gamma değerini değiştirmenizi sağlar.</li>
 </ul>
-<h3> Outline Width:</h3>
+<h3> Çerçeve Eni:</h3>
 <ul>
-<li>Allows you to change the outline of every character in the game.</li>
+<li>Karakterleri çerçeveleyen çizgilerin enini değiştirmenizi sağlar.</li>
 </ul>
-<h3> Anti-Aliasing:</h3>
+<h3> Anti-Aliasing(Kenar Yumşatma):</h3>
 <ul>
-<li>Allows the player to change the anti-aliasing module to use, including some that are not available natively.</li>
+<li>Oyunun istediğiniz Anti-Aliasing(Kenar Yumşatma) moduna sahip olmasını sağlar. (Bazıları çalışmayabilir.)</li>
 </ul>
 ]]></content:encoded>
     </item>
