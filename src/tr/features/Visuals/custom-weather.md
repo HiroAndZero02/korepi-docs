@@ -1,5 +1,5 @@
 ---
-title: Custom Weather
+title: Özel Hava Durumu
 icon: cloud
 category:
   - Features
@@ -9,4 +9,4 @@ author: Schvis
 order: 5
 ---
 
-## Custom Wether allows you to change the weather to your liking.
+## Özel hava durumu şu anki hava durumunu istediğiniz hava durumununa değiştirir.
