@@ -1,5 +1,5 @@
 ---
-title: Flycloak Modifier
+title: Kanat Değiştirici
 icon: arrows-rotate
 category:
   - Features
@@ -9,4 +9,4 @@ author: Schvis
 order: 10
 ---
 
-## Flycloak Modifier allow the player to change their glider skin even if they don't own it.
+## Kanat Değiştirici istediğiniz kanat skinine sahip olmanızı sağlar.
