@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Extra Movements
-author: Schvis, OpHellfire, HiroAndZero
+author: Schvis
 order: 5
 ---
 ::: Bilgilendirme: Yalnızca Sponsorlar
