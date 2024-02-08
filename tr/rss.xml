@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Thu, 08 Feb 2024 14:28:31 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 14:28:31 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 14:29:16 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 14:29:16 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -1429,8 +1429,8 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 <h3> Kamera Bulanmasını Kaldırma</h3>
 <h3> Kamera Sallanmasını Kaldırma</h3>
 <h3> Ayakizi Kaldırma</h3>
-<h3> No Burst Animation</h3>
-<h2> Example Video:</h2>
+<h3> Beceri Animasyonu Yok</h3>
+<h2> Örnek Video:</h2>
 <div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 ]]></content:encoded>
     </item>
