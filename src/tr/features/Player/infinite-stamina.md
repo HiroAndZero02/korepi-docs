@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Infinite Stamina
-author: Schvis, OpHellfire, HiroAndZero
+author: Schvis
 order: 8
 ---
 
