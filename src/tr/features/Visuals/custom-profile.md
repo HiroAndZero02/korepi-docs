@@ -1,5 +1,5 @@
 ---
-title: Custom Profile
+title: Özel Profil
 icon: users-gear
 category:
   - Features
@@ -9,19 +9,19 @@ author: Schvis
 order: 4
 ---
 
-## Custom Profile:
+## Özel Profil:
 
 ### UID:
-- Select the UID you want to be displayed.
-### Nickname:
-- Select the Nickname you want to be displayed.
-### Level:
-- Select the Level you want to be displayed.
-### EXP:
-- Select the EXP you want to be displayed.
-### World Level:
-- Select the World Level you want to be displayed.
-### Avatar Image:
-- Use a custom png as avatar image.
-### Card Image:
-- Use a custom png as card image.
+- Görmek istediğiniz UID ye değiştirir.
+### Takma ad:
+- Görmek istediğiniz kullanıcı adına değiştirir.
+### Seviye:
+- Görmek istediğiniz seviyeye değiştirir.
+### Tecrübe:
+- Görmek istediğiniz tecrübeye değiştirir.
+### Dünya Seviyesi:
+- Görmek istediğiniz dünya seviyesine değiştirir.
+### Avatar resmi:
+- Görmek istediğiniz png dosyanını profil resminiz yapar.
+### Kart Resmi:
+- Görmek istediğiniz png dosyasını kart resmi yapar.
