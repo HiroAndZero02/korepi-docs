@@ -1,5 +1,5 @@
 ---
-title: Emotion Changer
+title: Duygu Değiştirici
 icon: face-smile
 category:
   - Features
@@ -9,4 +9,4 @@ author: Schvis
 order: 6
 ---
 
-## Emotion Changer allows the player to change the current character emotion to the selected one.
+## Duygu değiştirici şu anki aktif karakterin yüz ifadesini seçilen ifadeye çevirir.
