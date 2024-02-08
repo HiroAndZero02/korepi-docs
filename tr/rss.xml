@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Thu, 08 Feb 2024 14:02:00 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 14:02:00 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 14:07:48 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 14:07:48 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -1374,10 +1374,10 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
       <link>https://korepi.com/tr/features/Visuals/map-zoom.html</link>
       <guid>https://korepi.com/tr/features/Visuals/map-zoom.html</guid>
       <source url="https://korepi.com/tr/rss.xml">Map Zoom</source>
-      <description>Map Zoom modifies the values to be used in the map.</description>
+      <description>Map Zoom yakınlaştırma değerini değiştirir.</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Map Zoom modifies the values to be used in the map.</h2>
+      <content:encoded><![CDATA[<h2> Map Zoom yakınlaştırma değerini değiştirir.</h2>
 ]]></content:encoded>
     </item>
     <item>
