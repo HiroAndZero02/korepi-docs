@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Thu, 08 Feb 2024 11:43:19 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 11:43:19 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 11:44:28 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 11:44:28 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -1152,14 +1152,14 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 ]]></content:encoded>
     </item>
     <item>
-      <title>Animation Changer</title>
+      <title>Animasyon Değiştirici</title>
       <link>https://korepi.com/tr/features/Visuals/animation-changer.html</link>
       <guid>https://korepi.com/tr/features/Visuals/animation-changer.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Animation Changer</source>
-      <description>Animation Changer, allows the player to change their current character animation to the selected one.</description>
+      <source url="https://korepi.com/tr/rss.xml">Animasyon Değiştirici</source>
+      <description>Animasyon Değiştirici, şu anki aktif karakterin seçilmiş animasyonu yapmasını sağlar.</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Animation Changer, allows the player to change their current character animation to the selected one.</h2>
+      <content:encoded><![CDATA[<h2> Animasyon Değiştirici, şu anki aktif karakterin seçilmiş animasyonu yapmasını sağlar.</h2>
 ]]></content:encoded>
     </item>
     <item>
