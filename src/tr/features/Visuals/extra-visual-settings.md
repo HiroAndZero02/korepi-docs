@@ -1,5 +1,5 @@
 ---
-title: Extra Visual Settings
+title: Ekstra Görsel Özellikler
 icon: eye
 category:
   - Features
@@ -9,10 +9,10 @@ author: Schvis
 order: 7
 ---
 
-## Extra Visual Settings:
+## Ekstra Görsel Özellikler:
 ### Gamma:
-- Allows you to change the gamma value of the game.
-### Outline Width:
-- Allows you to change the outline of every character in the game.
-### Anti-Aliasing:
-- Allows the player to change the anti-aliasing module to use, including some that are not available natively.
+- Oyunun gamma değerini değiştirmenizi sağlar.
+### Çerçeve Eni:
+  - Karakterleri çerçeveleyen çizgilerin enini değiştirmenizi sağlar.
+### Anti-Aliasing(Kenar Yumşatma):
+- Oyunun istediğiniz Anti-Aliasing(Kenar Yumşatma) moduna sahip olmasını sağlar. (Bazıları çalışmayabilir.)
