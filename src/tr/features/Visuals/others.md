@@ -1,5 +1,5 @@
 ---
-title: Others
+title: Diğer
 icon: layer-group
 category:
   - Features
@@ -9,21 +9,21 @@ author: Schvis
 order: 17
 ---
 
-## Other Features:
-### Show Chest Indicator
-### Enable Peeking
-### No Black Screen
-### No fog
-### No grass
-### No map fog
-### Paimon Follow
-### Dolphin Dive
-### GM Icon
-### Menu Unlocker
-## <span style='color:yellow;'>Sponsor Only</span>
-### No Camera Blur
-### No Camera Shake
-### No Footprints
+## Diğer Özellikler:
+### Sandık Göstergesini Göster
+### Etek Altı
+### Siyah Ekran Kaldırma
+### Sis Kaldırma
+### Çimen Kaldırma
+### Harita Sisini Kaldırma
+### Paimon Her Zaman Takip Eder
+### Balıklama Atlama
+### GM ikonu
+### Menü Kilidi Açma
+## <span style='color:yellow;'>Sponsor'lara Özel</span>
+### Kamera Bulanmasını Kaldırma
+### Kamera Sallanmasını Kaldırma
+### Ayakizi Kaldırma
 ### No Burst Animation
 
 ## Example Video:
