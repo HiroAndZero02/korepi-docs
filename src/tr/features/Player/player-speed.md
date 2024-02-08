@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Player Speed
-author: Schvis, OpHellfire, HiroAndZero
+author: Schvis
 order: 10
 ---
 
