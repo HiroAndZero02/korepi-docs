@@ -1,5 +1,5 @@
 ---
-title: Free Camera
+title: Özgür Kamera
 icon: camera-rotate
 category:
   - Features
@@ -9,11 +9,11 @@ author: Schvis
 order: 11
 ---
 
-## Free Camera:
-- Move the camera freely without being locked to the character.
-### Freeze Character Animation:
-- Freezes character animations.
-### Make Character Invisible:
-- Makes character invisible.
-### Block User Input:
-- Blocks user input therefore character wont move while moving the camera.
+## Özgür Kamera:
+- Kameranızı istediğiniz gibi hareket ettirebilirsiniz.
+### Karakter Animasyonlarını Dondur:
+- Karakter animasyonlarını durdurur.
+### Karakteri Görünmez Yap:
+- Karakteri görünmez yapar.
+### Kullanıcı Hareketlerini Engelle:
+- Karakter hareketlerini kamerayı hareket ettirirken engeller.
