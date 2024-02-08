@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Thu, 08 Feb 2024 13:06:54 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 13:06:54 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 13:10:20 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 13:10:20 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -1303,17 +1303,17 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 ]]></content:encoded>
     </item>
     <item>
-      <title>FPS Unlock</title>
+      <title>FPS Kilidi Açma</title>
       <link>https://korepi.com/tr/features/Visuals/fps-unlock.html</link>
       <guid>https://korepi.com/tr/features/Visuals/fps-unlock.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">FPS Unlock</source>
-      <description>Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow. Limit background FPS: Set the max fps game can reach when its not focused.;</description>
+      <source url="https://korepi.com/tr/rss.xml">FPS Kilidi Açma</source>
+      <description>FPS Kilidi Açma, FPS kilidini açar işte. Arkaplan FPS ini limitle: Oyun arkaplandayken oyunun sahip olabileceği maksimum FPS&amp;apos;i seçebilmenizi sağlar.;</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow.</h2>
-<h3> Limit background FPS:</h3>
+      <content:encoded><![CDATA[<h2> FPS Kilidi Açma, FPS kilidini açar işte.</h2>
+<h3> Arkaplan FPS ini limitle:</h3>
 <ul>
-<li>Set the max fps game can reach when its not focused.</li>
+<li>Oyun arkaplandayken oyunun sahip olabileceği maksimum FPS'i seçebilmenizi sağlar.</li>
 </ul>
 ]]></content:encoded>
     </item>
