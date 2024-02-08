@@ -1,5 +1,5 @@
 ---
-title: Fake Time
+title: Sahte Zaman
 icon: clock
 category:
   - Features
@@ -9,5 +9,5 @@ author: Schvis
 order: 9
 ---
 
-## Fake Time:
-- Changes in game time (hour and minutes).
+## Sahte Zaman:
+- Oyun içi saati değiştirir (Saat ve dakika formatında).
