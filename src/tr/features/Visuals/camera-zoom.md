@@ -1,5 +1,5 @@
 ---
-title: Camera Zoom
+title: Kamera Yakınlaştırma
 icon: camera
 category:
   - Features
@@ -9,4 +9,4 @@ author: Schvis
 order: 2
 ---
 
-## Camera zoom allows the user to change their camera zoom to their desired value.
+## Kamera Yakınlaştırma, kameranızı istediğiniz yakınlaştırmaya sahip olmasını sağlar.
