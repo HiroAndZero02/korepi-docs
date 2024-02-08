@@ -1,5 +1,5 @@
 ---
-title: FPS Unlock
+title: FPS Kilidi Açma
 icon: arrow-up-right-dots
 category:
   - Features
@@ -9,6 +9,6 @@ author: Schvis
 order: 8
 ---
 
-## Unlocks FPS.Unlocks FPS yeah.Unlocks FPS wow.
-### Limit background FPS:
-- Set the max fps game can reach when its not focused.
+## FPS Kilidi Açma, FPS kilidini açar işte.
+### Arkaplan FPS ini limitle:
+- Oyun arkaplandayken oyunun sahip olabileceği maksimum FPS'i seçebilmenizi sağlar.
