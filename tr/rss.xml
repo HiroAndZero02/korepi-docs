@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Thu, 08 Feb 2024 11:45:19 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 11:45:19 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 11:45:41 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 11:45:41 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -1174,10 +1174,10 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 ]]></content:encoded>
     </item>
     <item>
-      <title>Constellation Modifier</title>
+      <title>Takımyıldız Değiştiricisi</title>
       <link>https://korepi.com/tr/features/Visuals/constellation-modifier.html</link>
       <guid>https://korepi.com/tr/features/Visuals/constellation-modifier.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Constellation Modifier</source>
+      <source url="https://korepi.com/tr/rss.xml">Takımyıldız Değiştiricisi</source>
       <description>Sponsor Only Constellation Modifier, will change your active character constellations if selected, visually and some of them will actually work. You can find more information ab...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
