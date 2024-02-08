@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Thu, 08 Feb 2024 14:11:04 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 14:11:04 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 14:28:31 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 14:28:31 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -1407,31 +1407,32 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 ]]></content:encoded>
     </item>
     <item>
-      <title>Others</title>
+      <title>Diğer</title>
       <link>https://korepi.com/tr/features/Visuals/others.html</link>
       <guid>https://korepi.com/tr/features/Visuals/others.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Others</source>
-      <description>Other Features: Show Chest Indicator Enable Peeking No Black Screen No fog No grass No map fog Paimon Follow Dolphin Dive GM Icon Menu Unlocker Sponsor Only No Camera Blur No Ca...</description>
+      <source url="https://korepi.com/tr/rss.xml">Diğer</source>
+      <description>Diğer Özellikler: Sandık Göstergesini Göster Etek Altı Siyah Ekran Kaldırma Sis Kaldırma Çimen Kaldırma Harita Sisini Kaldırma Paimon Her Zaman Takip Eder Balıklama Atlama GM ik...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Other Features:</h2>
-<h3> Show Chest Indicator</h3>
-<h3> Enable Peeking</h3>
-<h3> No Black Screen</h3>
-<h3> No fog</h3>
-<h3> No grass</h3>
-<h3> No map fog</h3>
-<h3> Paimon Follow</h3>
-<h3> Dolphin Dive</h3>
-<h3> GM Icon</h3>
-<h3> Menu Unlocker</h3>
-<h2> <span style="color:yellow;">Sponsor Only</span></h2>
-<h3> No Camera Blur</h3>
-<h3> No Camera Shake</h3>
-<h3> No Footprints</h3>
+      <content:encoded><![CDATA[<h2> Diğer Özellikler:</h2>
+<h3> Sandık Göstergesini Göster</h3>
+<h3> Etek Altı</h3>
+<h3> Siyah Ekran Kaldırma</h3>
+<h3> Sis Kaldırma</h3>
+<h3> Çimen Kaldırma</h3>
+<h3> Harita Sisini Kaldırma</h3>
+<h3> Paimon Her Zaman Takip Eder</h3>
+<h3> Balıklama Atlama</h3>
+<h3> GM ikonu</h3>
+<h3> Menü Kilidi Açma</h3>
+<h2> <span style="color:yellow;">Sponsor'lara Özel</span></h2>
+<h3> Kamera Bulanmasını Kaldırma</h3>
+<h3> Kamera Sallanmasını Kaldırma</h3>
+<h3> Ayakizi Kaldırma</h3>
 <h3> No Burst Animation</h3>
 <h2> Example Video:</h2>
-<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>]]></content:encoded>
+<div class="iframe-container"><iframe width="640" height="360" src="https://www.youtube.com/embed/AjkJ8S8NHsI?list=PL5eI1Tb64p56g27qfYk7VuFTz4FK6YrKa" title="Korepi - Visuals/Other" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+]]></content:encoded>
     </item>
     <item>
       <title>Skin Modifier</title>
