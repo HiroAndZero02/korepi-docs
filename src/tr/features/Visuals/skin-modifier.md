@@ -1,5 +1,5 @@
 ---
-title: Skin Modifier
+title: Kostüm Değiştirici
 icon: list
 category:
   - Features
@@ -9,4 +9,4 @@ author: Schvis
 order: 15
 ---
 
-## Skin Modifier allows the player to use in-game skins for free.
+## Kostüm Değiştirici bazı ksotümleri bedava kullanma olanağı sunar.
