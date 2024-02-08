@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Thu, 08 Feb 2024 13:45:45 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 13:45:45 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 14:02:00 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 14:02:00 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -1344,28 +1344,28 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 ]]></content:encoded>
     </item>
     <item>
-      <title>Hide UI</title>
+      <title>UI&amp;apos;yı Gizle</title>
       <link>https://korepi.com/tr/features/Visuals/hide-ui.html</link>
       <guid>https://korepi.com/tr/features/Visuals/hide-ui.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Hide UI</source>
-      <description>Hide UI: Hides player user interface entirely.; Hide Ping: (Sponsor) Hides ping only.; Hide HP Bar: (Sponsor) Hides current character HP bar only.; Hide Team HP Bar: (Sponsor) H...</description>
+      <source url="https://korepi.com/tr/rss.xml">UI&amp;apos;yı Gizle</source>
+      <description>UI&amp;apos;yı Gizle: Kullanıcı arayüzünü gizler.; Pingi Gizle: (Sponsorlara Özel) Sadece pingi gizler.; Canı Gizle: (Sponsorlara Özel) Sadece canı gizler.; Takımın Canını Gizle: (Sponso...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Hide UI:</h2>
+      <content:encoded><![CDATA[<h2> UI'yı Gizle:</h2>
 <ul>
-<li>Hides player user interface entirely.</li>
+<li>Kullanıcı arayüzünü gizler.</li>
 </ul>
-<h3> Hide Ping: (<span style="color:yellow;">Sponsor</span>)</h3>
+<h3> Pingi Gizle: (<span style="color:yellow;">Sponsorlara Özel</span>)</h3>
 <ul>
-<li>Hides ping only.</li>
+<li>Sadece pingi gizler.</li>
 </ul>
-<h3> Hide HP Bar: (<span style="color:yellow;">Sponsor</span>)</h3>
+<h3> Canı Gizle: (<span style="color:yellow;">Sponsorlara Özel</span>)</h3>
 <ul>
-<li>Hides current character HP bar only.</li>
+<li>Sadece canı gizler.</li>
 </ul>
-<h3> Hide Team HP Bar: (<span style="color:yellow;">Sponsor</span>)</h3>
+<h3> Takımın Canını Gizle: (<span style="color:yellow;">Sponsorlara Özel</span>)</h3>
 <ul>
-<li>Hides team hp bar on the character tab only.</li>
+<li>Takımın canını gizler.</li>
 </ul>
 ]]></content:encoded>
     </item>
