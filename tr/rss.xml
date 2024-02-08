@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Thu, 08 Feb 2024 14:29:16 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 14:29:16 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 14:30:42 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 14:30:42 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -1435,14 +1435,14 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 ]]></content:encoded>
     </item>
     <item>
-      <title>Skin Modifier</title>
+      <title>Kostüm Değiştirici</title>
       <link>https://korepi.com/tr/features/Visuals/skin-modifier.html</link>
       <guid>https://korepi.com/tr/features/Visuals/skin-modifier.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Skin Modifier</source>
-      <description>Skin Modifier allows the player to use in-game skins for free.</description>
+      <source url="https://korepi.com/tr/rss.xml">Kostüm Değiştirici</source>
+      <description>Kostüm Değiştirici bazı ksotümleri bedava kullanma olanağı sunar.</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Skin Modifier allows the player to use in-game skins for free.</h2>
+      <content:encoded><![CDATA[<h2> Kostüm Değiştirici bazı ksotümleri bedava kullanma olanağı sunar.</h2>
 ]]></content:encoded>
     </item>
     <item>
