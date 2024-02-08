@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Thu, 08 Feb 2024 11:52:56 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 11:52:56 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 12:01:07 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 12:01:07 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -1233,14 +1233,14 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 ]]></content:encoded>
     </item>
     <item>
-      <title>Custom Weather</title>
+      <title>Özel Hava Durumu</title>
       <link>https://korepi.com/tr/features/Visuals/custom-weather.html</link>
       <guid>https://korepi.com/tr/features/Visuals/custom-weather.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Custom Weather</source>
-      <description>Custom Wether allows you to change the weather to your liking.</description>
+      <source url="https://korepi.com/tr/rss.xml">Özel Hava Durumu</source>
+      <description>Özel hava durumu şu anki hava durumunu istediğiniz hava durumununa değiştirir.</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Custom Wether allows you to change the weather to your liking.</h2>
+      <content:encoded><![CDATA[<h2> Özel hava durumu şu anki hava durumunu istediğiniz hava durumununa değiştirir.</h2>
 ]]></content:encoded>
     </item>
     <item>
