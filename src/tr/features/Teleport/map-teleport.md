@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Map Teleport
-author: Schvis, OpHellfire, HiroAndZero
+author: Schvis
 order: 4
 ---
 
