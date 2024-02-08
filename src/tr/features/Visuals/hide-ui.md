@@ -1,5 +1,5 @@
 ---
-title: Hide UI
+title: UI'yı Gizle
 icon: square
 category:
   - Features
@@ -9,11 +9,11 @@ author: Schvis
 order: 12
 ---
 
-## Hide UI:
-- Hides player user interface entirely.
-### Hide Ping: (<span style='color:yellow;'>Sponsor</span>)
-- Hides ping only.
-### Hide HP Bar: (<span style='color:yellow;'>Sponsor</span>)
-- Hides current character HP bar only.
-### Hide Team HP Bar: (<span style='color:yellow;'>Sponsor</span>)
-- Hides team hp bar on the character tab only.
+## UI'yı Gizle:
+- Kullanıcı arayüzünü gizler.
+### Pingi Gizle: (<span style='color:yellow;'>Sponsorlara Özel</span>)
+- Sadece pingi gizler.
+### Canı Gizle: (<span style='color:yellow;'>Sponsorlara Özel</span>)
+- Sadece canı gizler.
+### Takımın Canını Gizle: (<span style='color:yellow;'>Sponsorlara Özel</span>)
+- Takımın canını gizler.
