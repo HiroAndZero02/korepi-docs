@@ -6,8 +6,8 @@
     <link>https://korepi.com/tr/</link>
     <description>Korepi Yardım Bölümü</description>
     <language>tr</language>
-    <pubDate>Thu, 08 Feb 2024 11:47:55 GMT</pubDate>
-    <lastBuildDate>Thu, 08 Feb 2024 11:47:55 GMT</lastBuildDate>
+    <pubDate>Thu, 08 Feb 2024 11:52:56 GMT</pubDate>
+    <lastBuildDate>Thu, 08 Feb 2024 11:52:56 GMT</lastBuildDate>
     <generator>vuepress-plugin-feed2</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Kılavuzlar</category>
@@ -1194,41 +1194,41 @@ Note 2: Öğelerin ID'lerini <a href="https://github.com/jie65535/GrasscutterCom
 ]]></content:encoded>
     </item>
     <item>
-      <title>Custom Profile</title>
+      <title>Özel Profil</title>
       <link>https://korepi.com/tr/features/Visuals/custom-profile.html</link>
       <guid>https://korepi.com/tr/features/Visuals/custom-profile.html</guid>
-      <source url="https://korepi.com/tr/rss.xml">Custom Profile</source>
-      <description>Custom Profile: UID: Select the UID you want to be displayed.; Nickname: Select the Nickname you want to be displayed.; Level: Select the Level you want to be displayed.; EXP: S...</description>
+      <source url="https://korepi.com/tr/rss.xml">Özel Profil</source>
+      <description>Özel Profil: UID: Görmek istediğiniz UID ye değiştirir.; Takma ad: Görmek istediğiniz kullanıcı adına değiştirir.; Seviye: Görmek istediğiniz seviyeye değiştirir.; Tecrübe: Görm...</description>
       <category>Features</category>
       <pubDate>Tue, 19 Dec 2023 12:28:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h2> Custom Profile:</h2>
+      <content:encoded><![CDATA[<h2> Özel Profil:</h2>
 <h3> UID:</h3>
 <ul>
-<li>Select the UID you want to be displayed.</li>
+<li>Görmek istediğiniz UID ye değiştirir.</li>
 </ul>
-<h3> Nickname:</h3>
+<h3> Takma ad:</h3>
 <ul>
-<li>Select the Nickname you want to be displayed.</li>
+<li>Görmek istediğiniz kullanıcı adına değiştirir.</li>
 </ul>
-<h3> Level:</h3>
+<h3> Seviye:</h3>
 <ul>
-<li>Select the Level you want to be displayed.</li>
+<li>Görmek istediğiniz seviyeye değiştirir.</li>
 </ul>
-<h3> EXP:</h3>
+<h3> Tecrübe:</h3>
 <ul>
-<li>Select the EXP you want to be displayed.</li>
+<li>Görmek istediğiniz tecrübeye değiştirir.</li>
 </ul>
-<h3> World Level:</h3>
+<h3> Dünya Seviyesi:</h3>
 <ul>
-<li>Select the World Level you want to be displayed.</li>
+<li>Görmek istediğiniz dünya seviyesine değiştirir.</li>
 </ul>
-<h3> Avatar Image:</h3>
+<h3> Avatar resmi:</h3>
 <ul>
-<li>Use a custom png as avatar image.</li>
+<li>Görmek istediğiniz png dosyanını profil resminiz yapar.</li>
 </ul>
-<h3> Card Image:</h3>
+<h3> Kart Resmi:</h3>
 <ul>
-<li>Use a custom png as card image.</li>
+<li>Görmek istediğiniz png dosyasını kart resmi yapar.</li>
 </ul>
 ]]></content:encoded>
     </item>
