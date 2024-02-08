@@ -5,7 +5,7 @@ category:
   - Features
 tag:
   - Remote Utility
-author: Schvis, OpHellfire, HiroAndZero
+author: Schvis
 order: 11
 ---
 ::: Bilgilendirme Sadece Sponsor
