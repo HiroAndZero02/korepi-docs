@@ -1,5 +1,5 @@
 ---
-title: Animation Changer
+title: Animasyon Değiştirici
 icon: people-arrows
 category:
   - Features
@@ -9,4 +9,4 @@ author: Schvis
 order: 1
 ---
 
-## Animation Changer, allows the player to change their current character animation to the selected one.
+## Animasyon Değiştirici, şu anki aktif karakterin seçilmiş animasyonu yapmasını sağlar.
